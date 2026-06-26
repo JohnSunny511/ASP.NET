@@ -1,0 +1,7 @@
+D:\Luminar\jun\pgm 28 Prime numbers upto\pgm 28 Prime numbers upto\bin\Debug\pgm 28 Prime numbers upto.exe.config
+D:\Luminar\jun\pgm 28 Prime numbers upto\pgm 28 Prime numbers upto\bin\Debug\pgm 28 Prime numbers upto.exe
+D:\Luminar\jun\pgm 28 Prime numbers upto\pgm 28 Prime numbers upto\bin\Debug\pgm 28 Prime numbers upto.pdb
+D:\Luminar\jun\pgm 28 Prime numbers upto\pgm 28 Prime numbers upto\obj\Debug\pgm 28 Prime numbers upto.csproj.AssemblyReference.cache
+D:\Luminar\jun\pgm 28 Prime numbers upto\pgm 28 Prime numbers upto\obj\Debug\pgm 28 Prime numbers upto.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 28 Prime numbers upto\pgm 28 Prime numbers upto\obj\Debug\pgm 28 Prime numbers upto.exe
+D:\Luminar\jun\pgm 28 Prime numbers upto\pgm 28 Prime numbers upto\obj\Debug\pgm 28 Prime numbers upto.pdb

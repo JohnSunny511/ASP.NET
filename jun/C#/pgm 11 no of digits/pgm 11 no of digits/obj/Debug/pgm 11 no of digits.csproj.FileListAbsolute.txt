@@ -1,0 +1,7 @@
+D:\Luminar\jun\pgm 11 no of digits\pgm 11 no of digits\bin\Debug\pgm 11 no of digits.exe.config
+D:\Luminar\jun\pgm 11 no of digits\pgm 11 no of digits\bin\Debug\pgm 11 no of digits.exe
+D:\Luminar\jun\pgm 11 no of digits\pgm 11 no of digits\bin\Debug\pgm 11 no of digits.pdb
+D:\Luminar\jun\pgm 11 no of digits\pgm 11 no of digits\obj\Debug\pgm 11 no of digits.csproj.AssemblyReference.cache
+D:\Luminar\jun\pgm 11 no of digits\pgm 11 no of digits\obj\Debug\pgm 11 no of digits.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 11 no of digits\pgm 11 no of digits\obj\Debug\pgm 11 no of digits.exe
+D:\Luminar\jun\pgm 11 no of digits\pgm 11 no of digits\obj\Debug\pgm 11 no of digits.pdb

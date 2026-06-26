@@ -1,0 +1,7 @@
+D:\Luminar\jun\pg 13 while loop\pg 13 while loop\bin\Debug\pg 13 while loop.exe.config
+D:\Luminar\jun\pg 13 while loop\pg 13 while loop\bin\Debug\pg 13 while loop.exe
+D:\Luminar\jun\pg 13 while loop\pg 13 while loop\bin\Debug\pg 13 while loop.pdb
+D:\Luminar\jun\pg 13 while loop\pg 13 while loop\obj\Debug\pg 13 while loop.csproj.AssemblyReference.cache
+D:\Luminar\jun\pg 13 while loop\pg 13 while loop\obj\Debug\pg 13 while loop.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pg 13 while loop\pg 13 while loop\obj\Debug\pg 13 while loop.exe
+D:\Luminar\jun\pg 13 while loop\pg 13 while loop\obj\Debug\pg 13 while loop.pdb

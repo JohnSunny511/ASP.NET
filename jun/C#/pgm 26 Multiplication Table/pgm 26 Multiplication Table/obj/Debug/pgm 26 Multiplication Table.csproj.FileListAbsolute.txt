@@ -1,0 +1,6 @@
+D:\Luminar\jun\pgm 26 Multiplication Table\pgm 26 Multiplication Table\bin\Debug\pgm 26 Multiplication Table.exe.config
+D:\Luminar\jun\pgm 26 Multiplication Table\pgm 26 Multiplication Table\bin\Debug\pgm 26 Multiplication Table.exe
+D:\Luminar\jun\pgm 26 Multiplication Table\pgm 26 Multiplication Table\bin\Debug\pgm 26 Multiplication Table.pdb
+D:\Luminar\jun\pgm 26 Multiplication Table\pgm 26 Multiplication Table\obj\Debug\pgm 26 Multiplication Table.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 26 Multiplication Table\pgm 26 Multiplication Table\obj\Debug\pgm 26 Multiplication Table.exe
+D:\Luminar\jun\pgm 26 Multiplication Table\pgm 26 Multiplication Table\obj\Debug\pgm 26 Multiplication Table.pdb

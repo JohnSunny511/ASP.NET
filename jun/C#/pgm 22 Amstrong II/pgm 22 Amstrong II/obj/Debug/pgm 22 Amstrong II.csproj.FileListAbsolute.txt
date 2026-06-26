@@ -1,0 +1,7 @@
+D:\Luminar\jun\pgm 22 Amstrong II\pgm 22 Amstrong II\bin\Debug\pgm 22 Amstrong II.exe.config
+D:\Luminar\jun\pgm 22 Amstrong II\pgm 22 Amstrong II\bin\Debug\pgm 22 Amstrong II.exe
+D:\Luminar\jun\pgm 22 Amstrong II\pgm 22 Amstrong II\bin\Debug\pgm 22 Amstrong II.pdb
+D:\Luminar\jun\pgm 22 Amstrong II\pgm 22 Amstrong II\obj\Debug\pgm 22 Amstrong II.csproj.AssemblyReference.cache
+D:\Luminar\jun\pgm 22 Amstrong II\pgm 22 Amstrong II\obj\Debug\pgm 22 Amstrong II.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 22 Amstrong II\pgm 22 Amstrong II\obj\Debug\pgm 22 Amstrong II.exe
+D:\Luminar\jun\pgm 22 Amstrong II\pgm 22 Amstrong II\obj\Debug\pgm 22 Amstrong II.pdb

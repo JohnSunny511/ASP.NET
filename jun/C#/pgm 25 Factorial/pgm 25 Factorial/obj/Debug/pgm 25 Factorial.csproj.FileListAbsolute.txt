@@ -1,0 +1,6 @@
+D:\Luminar\jun\pgm 25 Factorial\pgm 25 Factorial\obj\Debug\pgm 25 Factorial.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 25 Factorial\pgm 25 Factorial\bin\Debug\pgm 25 Factorial.exe.config
+D:\Luminar\jun\pgm 25 Factorial\pgm 25 Factorial\bin\Debug\pgm 25 Factorial.exe
+D:\Luminar\jun\pgm 25 Factorial\pgm 25 Factorial\bin\Debug\pgm 25 Factorial.pdb
+D:\Luminar\jun\pgm 25 Factorial\pgm 25 Factorial\obj\Debug\pgm 25 Factorial.exe
+D:\Luminar\jun\pgm 25 Factorial\pgm 25 Factorial\obj\Debug\pgm 25 Factorial.pdb

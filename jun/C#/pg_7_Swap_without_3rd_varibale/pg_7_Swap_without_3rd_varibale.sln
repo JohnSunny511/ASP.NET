@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37327.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg_7_Swap_without_3rd_varibale", "pg_7_Swap_without_3rd_varibale\pg_7_Swap_without_3rd_varibale.csproj", "{11CE8EC5-C7C8-4DF2-ADFF-672F08E7A790}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11CE8EC5-C7C8-4DF2-ADFF-672F08E7A790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CE8EC5-C7C8-4DF2-ADFF-672F08E7A790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CE8EC5-C7C8-4DF2-ADFF-672F08E7A790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CE8EC5-C7C8-4DF2-ADFF-672F08E7A790}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF309E2E-D1D2-4FF3-A01B-13B9D243DA2C}
+	EndGlobalSection
+EndGlobal

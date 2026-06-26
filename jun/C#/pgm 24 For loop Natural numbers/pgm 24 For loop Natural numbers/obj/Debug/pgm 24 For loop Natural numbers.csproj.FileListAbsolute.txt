@@ -1,0 +1,7 @@
+D:\Luminar\jun\pgm 24 For loop Natural numbers\pgm 24 For loop Natural numbers\bin\Debug\pgm 24 For loop Natural numbers.exe.config
+D:\Luminar\jun\pgm 24 For loop Natural numbers\pgm 24 For loop Natural numbers\bin\Debug\pgm 24 For loop Natural numbers.exe
+D:\Luminar\jun\pgm 24 For loop Natural numbers\pgm 24 For loop Natural numbers\bin\Debug\pgm 24 For loop Natural numbers.pdb
+D:\Luminar\jun\pgm 24 For loop Natural numbers\pgm 24 For loop Natural numbers\obj\Debug\pgm 24 For loop Natural numbers.csproj.AssemblyReference.cache
+D:\Luminar\jun\pgm 24 For loop Natural numbers\pgm 24 For loop Natural numbers\obj\Debug\pgm 24 For loop Natural numbers.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 24 For loop Natural numbers\pgm 24 For loop Natural numbers\obj\Debug\pgm 24 For loop Natural numbers.exe
+D:\Luminar\jun\pgm 24 For loop Natural numbers\pgm 24 For loop Natural numbers\obj\Debug\pgm 24 For loop Natural numbers.pdb

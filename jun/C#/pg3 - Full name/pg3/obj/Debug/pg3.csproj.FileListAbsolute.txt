@@ -1,0 +1,7 @@
+D:\Luminar\jun\pg3\pg3\bin\Debug\pg3.exe.config
+D:\Luminar\jun\pg3\pg3\bin\Debug\pg3.exe
+D:\Luminar\jun\pg3\pg3\bin\Debug\pg3.pdb
+D:\Luminar\jun\pg3\pg3\obj\Debug\pg3.csproj.AssemblyReference.cache
+D:\Luminar\jun\pg3\pg3\obj\Debug\pg3.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pg3\pg3\obj\Debug\pg3.exe
+D:\Luminar\jun\pg3\pg3\obj\Debug\pg3.pdb

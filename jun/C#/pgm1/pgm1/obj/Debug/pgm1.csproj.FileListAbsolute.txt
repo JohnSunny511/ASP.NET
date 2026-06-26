@@ -1,0 +1,7 @@
+D:\Luminar\jun 19\pgm1\pgm1\obj\Debug\pgm1.csproj.AssemblyReference.cache
+D:\Luminar\jun 19\pgm1\pgm1\obj\Debug\pgm1.csproj.CoreCompileInputs.cache
+D:\Luminar\jun 19\pgm1\pgm1\bin\Debug\pgm1.exe.config
+D:\Luminar\jun 19\pgm1\pgm1\bin\Debug\pgm1.exe
+D:\Luminar\jun 19\pgm1\pgm1\bin\Debug\pgm1.pdb
+D:\Luminar\jun 19\pgm1\pgm1\obj\Debug\pgm1.exe
+D:\Luminar\jun 19\pgm1\pgm1\obj\Debug\pgm1.pdb

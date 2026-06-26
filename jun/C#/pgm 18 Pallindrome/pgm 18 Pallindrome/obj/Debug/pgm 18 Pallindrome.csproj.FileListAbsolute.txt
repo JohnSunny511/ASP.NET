@@ -1,0 +1,7 @@
+D:\Luminar\jun\pgm 18 Pallindrome\pgm 18 Pallindrome\bin\Debug\pgm 18 Pallindrome.exe.config
+D:\Luminar\jun\pgm 18 Pallindrome\pgm 18 Pallindrome\bin\Debug\pgm 18 Pallindrome.exe
+D:\Luminar\jun\pgm 18 Pallindrome\pgm 18 Pallindrome\bin\Debug\pgm 18 Pallindrome.pdb
+D:\Luminar\jun\pgm 18 Pallindrome\pgm 18 Pallindrome\obj\Debug\pgm 18 Pallindrome.csproj.AssemblyReference.cache
+D:\Luminar\jun\pgm 18 Pallindrome\pgm 18 Pallindrome\obj\Debug\pgm 18 Pallindrome.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 18 Pallindrome\pgm 18 Pallindrome\obj\Debug\pgm 18 Pallindrome.exe
+D:\Luminar\jun\pgm 18 Pallindrome\pgm 18 Pallindrome\obj\Debug\pgm 18 Pallindrome.pdb

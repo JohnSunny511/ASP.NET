@@ -1,0 +1,6 @@
+D:\Luminar\jun\pgm 9 Even or Odd\pgm 9 Even or Odd\bin\Debug\pgm 9 Even or Odd.exe.config
+D:\Luminar\jun\pgm 9 Even or Odd\pgm 9 Even or Odd\bin\Debug\pgm 9 Even or Odd.exe
+D:\Luminar\jun\pgm 9 Even or Odd\pgm 9 Even or Odd\bin\Debug\pgm 9 Even or Odd.pdb
+D:\Luminar\jun\pgm 9 Even or Odd\pgm 9 Even or Odd\obj\Debug\pgm 9 Even or Odd.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 9 Even or Odd\pgm 9 Even or Odd\obj\Debug\pgm 9 Even or Odd.exe
+D:\Luminar\jun\pgm 9 Even or Odd\pgm 9 Even or Odd\obj\Debug\pgm 9 Even or Odd.pdb

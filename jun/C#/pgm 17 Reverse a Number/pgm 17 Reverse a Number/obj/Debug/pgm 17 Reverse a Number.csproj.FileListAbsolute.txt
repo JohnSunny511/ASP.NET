@@ -1,0 +1,7 @@
+D:\Luminar\jun\pgm 17 Reverse a Number\pgm 17 Reverse a Number\bin\Debug\pgm 17 Reverse a Number.exe.config
+D:\Luminar\jun\pgm 17 Reverse a Number\pgm 17 Reverse a Number\bin\Debug\pgm 17 Reverse a Number.exe
+D:\Luminar\jun\pgm 17 Reverse a Number\pgm 17 Reverse a Number\bin\Debug\pgm 17 Reverse a Number.pdb
+D:\Luminar\jun\pgm 17 Reverse a Number\pgm 17 Reverse a Number\obj\Debug\pgm 17 Reverse a Number.csproj.AssemblyReference.cache
+D:\Luminar\jun\pgm 17 Reverse a Number\pgm 17 Reverse a Number\obj\Debug\pgm 17 Reverse a Number.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 17 Reverse a Number\pgm 17 Reverse a Number\obj\Debug\pgm 17 Reverse a Number.exe
+D:\Luminar\jun\pgm 17 Reverse a Number\pgm 17 Reverse a Number\obj\Debug\pgm 17 Reverse a Number.pdb

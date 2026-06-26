@@ -1,0 +1,7 @@
+D:\Luminar\jun\pg6 - Swap\pg6 - Swap\bin\Debug\pg6 - Swap.exe.config
+D:\Luminar\jun\pg6 - Swap\pg6 - Swap\bin\Debug\pg6 - Swap.exe
+D:\Luminar\jun\pg6 - Swap\pg6 - Swap\bin\Debug\pg6 - Swap.pdb
+D:\Luminar\jun\pg6 - Swap\pg6 - Swap\obj\Debug\pg6 - Swap.csproj.AssemblyReference.cache
+D:\Luminar\jun\pg6 - Swap\pg6 - Swap\obj\Debug\pg6 - Swap.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pg6 - Swap\pg6 - Swap\obj\Debug\pg6 - Swap.exe
+D:\Luminar\jun\pg6 - Swap\pg6 - Swap\obj\Debug\pg6 - Swap.pdb

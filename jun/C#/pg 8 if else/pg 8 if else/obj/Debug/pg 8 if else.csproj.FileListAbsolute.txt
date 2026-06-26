@@ -1,0 +1,7 @@
+D:\Luminar\jun\pg 8 if else\pg 8 if else\bin\Debug\pg 8 if else.exe.config
+D:\Luminar\jun\pg 8 if else\pg 8 if else\bin\Debug\pg 8 if else.exe
+D:\Luminar\jun\pg 8 if else\pg 8 if else\bin\Debug\pg 8 if else.pdb
+D:\Luminar\jun\pg 8 if else\pg 8 if else\obj\Debug\pg 8 if else.csproj.AssemblyReference.cache
+D:\Luminar\jun\pg 8 if else\pg 8 if else\obj\Debug\pg 8 if else.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pg 8 if else\pg 8 if else\obj\Debug\pg 8 if else.exe
+D:\Luminar\jun\pg 8 if else\pg 8 if else\obj\Debug\pg 8 if else.pdb

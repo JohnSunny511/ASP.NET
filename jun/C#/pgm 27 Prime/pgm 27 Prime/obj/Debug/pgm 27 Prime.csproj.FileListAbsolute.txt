@@ -1,0 +1,7 @@
+D:\Luminar\jun\pgm 27 Prime\pgm 27 Prime\obj\Debug\pgm 27 Prime.csproj.AssemblyReference.cache
+D:\Luminar\jun\pgm 27 Prime\pgm 27 Prime\obj\Debug\pgm 27 Prime.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 27 Prime\pgm 27 Prime\bin\Debug\pgm 27 Prime.exe.config
+D:\Luminar\jun\pgm 27 Prime\pgm 27 Prime\bin\Debug\pgm 27 Prime.exe
+D:\Luminar\jun\pgm 27 Prime\pgm 27 Prime\bin\Debug\pgm 27 Prime.pdb
+D:\Luminar\jun\pgm 27 Prime\pgm 27 Prime\obj\Debug\pgm 27 Prime.exe
+D:\Luminar\jun\pgm 27 Prime\pgm 27 Prime\obj\Debug\pgm 27 Prime.pdb

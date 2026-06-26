@@ -1,0 +1,6 @@
+D:\Luminar\jun\pgm 16 Even num using mod\pgm 16 Even num using mod\bin\Debug\pgm 16 Even num using mod.exe.config
+D:\Luminar\jun\pgm 16 Even num using mod\pgm 16 Even num using mod\bin\Debug\pgm 16 Even num using mod.exe
+D:\Luminar\jun\pgm 16 Even num using mod\pgm 16 Even num using mod\bin\Debug\pgm 16 Even num using mod.pdb
+D:\Luminar\jun\pgm 16 Even num using mod\pgm 16 Even num using mod\obj\Debug\pgm 16 Even num using mod.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 16 Even num using mod\pgm 16 Even num using mod\obj\Debug\pgm 16 Even num using mod.exe
+D:\Luminar\jun\pgm 16 Even num using mod\pgm 16 Even num using mod\obj\Debug\pgm 16 Even num using mod.pdb

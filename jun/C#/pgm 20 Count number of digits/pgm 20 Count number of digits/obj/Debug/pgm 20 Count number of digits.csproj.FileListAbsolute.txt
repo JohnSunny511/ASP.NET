@@ -1,0 +1,7 @@
+D:\Luminar\jun\pgm 20 Count number of digits\pgm 20 Count number of digits\bin\Debug\pgm 20 Count number of digits.exe.config
+D:\Luminar\jun\pgm 20 Count number of digits\pgm 20 Count number of digits\bin\Debug\pgm 20 Count number of digits.exe
+D:\Luminar\jun\pgm 20 Count number of digits\pgm 20 Count number of digits\bin\Debug\pgm 20 Count number of digits.pdb
+D:\Luminar\jun\pgm 20 Count number of digits\pgm 20 Count number of digits\obj\Debug\pgm 20 Count number of digits.csproj.AssemblyReference.cache
+D:\Luminar\jun\pgm 20 Count number of digits\pgm 20 Count number of digits\obj\Debug\pgm 20 Count number of digits.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 20 Count number of digits\pgm 20 Count number of digits\obj\Debug\pgm 20 Count number of digits.exe
+D:\Luminar\jun\pgm 20 Count number of digits\pgm 20 Count number of digits\obj\Debug\pgm 20 Count number of digits.pdb

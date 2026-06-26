@@ -1,0 +1,7 @@
+D:\Luminar\jun\pgm 21 amstrong I\pgm 21 amstrong I\bin\Debug\pgm 21 amstrong I.exe.config
+D:\Luminar\jun\pgm 21 amstrong I\pgm 21 amstrong I\bin\Debug\pgm 21 amstrong I.exe
+D:\Luminar\jun\pgm 21 amstrong I\pgm 21 amstrong I\bin\Debug\pgm 21 amstrong I.pdb
+D:\Luminar\jun\pgm 21 amstrong I\pgm 21 amstrong I\obj\Debug\pgm 21 amstrong I.csproj.AssemblyReference.cache
+D:\Luminar\jun\pgm 21 amstrong I\pgm 21 amstrong I\obj\Debug\pgm 21 amstrong I.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 21 amstrong I\pgm 21 amstrong I\obj\Debug\pgm 21 amstrong I.exe
+D:\Luminar\jun\pgm 21 amstrong I\pgm 21 amstrong I\obj\Debug\pgm 21 amstrong I.pdb

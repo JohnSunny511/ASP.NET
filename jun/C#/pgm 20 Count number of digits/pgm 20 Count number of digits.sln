@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37327.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgm 20 Count number of digits", "pgm 20 Count number of digits\pgm 20 Count number of digits.csproj", "{607AEDC2-B402-4E7B-ACE5-9BE13F3FC567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{607AEDC2-B402-4E7B-ACE5-9BE13F3FC567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607AEDC2-B402-4E7B-ACE5-9BE13F3FC567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607AEDC2-B402-4E7B-ACE5-9BE13F3FC567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607AEDC2-B402-4E7B-ACE5-9BE13F3FC567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18FC6733-B721-41F0-8F65-DB9257BAB64D}
+	EndGlobalSection
+EndGlobal

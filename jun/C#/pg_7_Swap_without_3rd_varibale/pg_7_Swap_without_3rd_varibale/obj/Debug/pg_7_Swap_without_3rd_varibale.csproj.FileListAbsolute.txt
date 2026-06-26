@@ -1,0 +1,7 @@
+D:\Luminar\jun\pg_7_Swap_without_3rd_varibale\pg_7_Swap_without_3rd_varibale\bin\Debug\pg_7_Swap_without_3rd_varibale.exe.config
+D:\Luminar\jun\pg_7_Swap_without_3rd_varibale\pg_7_Swap_without_3rd_varibale\bin\Debug\pg_7_Swap_without_3rd_varibale.exe
+D:\Luminar\jun\pg_7_Swap_without_3rd_varibale\pg_7_Swap_without_3rd_varibale\bin\Debug\pg_7_Swap_without_3rd_varibale.pdb
+D:\Luminar\jun\pg_7_Swap_without_3rd_varibale\pg_7_Swap_without_3rd_varibale\obj\Debug\pg_7_Swap_without_3rd_varibale.csproj.AssemblyReference.cache
+D:\Luminar\jun\pg_7_Swap_without_3rd_varibale\pg_7_Swap_without_3rd_varibale\obj\Debug\pg_7_Swap_without_3rd_varibale.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pg_7_Swap_without_3rd_varibale\pg_7_Swap_without_3rd_varibale\obj\Debug\pg_7_Swap_without_3rd_varibale.exe
+D:\Luminar\jun\pg_7_Swap_without_3rd_varibale\pg_7_Swap_without_3rd_varibale\obj\Debug\pg_7_Swap_without_3rd_varibale.pdb

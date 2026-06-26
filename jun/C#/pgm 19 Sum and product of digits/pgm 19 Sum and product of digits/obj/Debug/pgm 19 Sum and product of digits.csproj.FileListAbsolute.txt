@@ -1,0 +1,7 @@
+D:\Luminar\jun\pgm 19 Sum and product of digits\pgm 19 Sum and product of digits\bin\Debug\pgm 19 Sum and product of digits.exe.config
+D:\Luminar\jun\pgm 19 Sum and product of digits\pgm 19 Sum and product of digits\bin\Debug\pgm 19 Sum and product of digits.exe
+D:\Luminar\jun\pgm 19 Sum and product of digits\pgm 19 Sum and product of digits\bin\Debug\pgm 19 Sum and product of digits.pdb
+D:\Luminar\jun\pgm 19 Sum and product of digits\pgm 19 Sum and product of digits\obj\Debug\pgm 19 Sum and product of digits.csproj.AssemblyReference.cache
+D:\Luminar\jun\pgm 19 Sum and product of digits\pgm 19 Sum and product of digits\obj\Debug\pgm 19 Sum and product of digits.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 19 Sum and product of digits\pgm 19 Sum and product of digits\obj\Debug\pgm 19 Sum and product of digits.exe
+D:\Luminar\jun\pgm 19 Sum and product of digits\pgm 19 Sum and product of digits\obj\Debug\pgm 19 Sum and product of digits.pdb
