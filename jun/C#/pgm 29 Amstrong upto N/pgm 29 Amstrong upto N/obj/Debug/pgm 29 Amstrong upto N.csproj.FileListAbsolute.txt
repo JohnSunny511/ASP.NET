@@ -1,0 +1,7 @@
+D:\Luminar\jun\pgm 29 Amstrong upto N\pgm 29 Amstrong upto N\bin\Debug\pgm 29 Amstrong upto N.exe.config
+D:\Luminar\jun\pgm 29 Amstrong upto N\pgm 29 Amstrong upto N\bin\Debug\pgm 29 Amstrong upto N.exe
+D:\Luminar\jun\pgm 29 Amstrong upto N\pgm 29 Amstrong upto N\bin\Debug\pgm 29 Amstrong upto N.pdb
+D:\Luminar\jun\pgm 29 Amstrong upto N\pgm 29 Amstrong upto N\obj\Debug\pgm 29 Amstrong upto N.csproj.AssemblyReference.cache
+D:\Luminar\jun\pgm 29 Amstrong upto N\pgm 29 Amstrong upto N\obj\Debug\pgm 29 Amstrong upto N.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 29 Amstrong upto N\pgm 29 Amstrong upto N\obj\Debug\pgm 29 Amstrong upto N.exe
+D:\Luminar\jun\pgm 29 Amstrong upto N\pgm 29 Amstrong upto N\obj\Debug\pgm 29 Amstrong upto N.pdb

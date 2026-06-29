@@ -1,0 +1,7 @@
+D:\Luminar\jun\pgm 30 Star Pattern 1\pgm 30 Star Pattern 1\obj\Debug\pgm 30 Star Pattern 1.csproj.AssemblyReference.cache
+D:\Luminar\jun\pgm 30 Star Pattern 1\pgm 30 Star Pattern 1\obj\Debug\pgm 30 Star Pattern 1.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\pgm 30 Star Pattern 1\pgm 30 Star Pattern 1\bin\Debug\pgm 30 Star Pattern 1.exe.config
+D:\Luminar\jun\pgm 30 Star Pattern 1\pgm 30 Star Pattern 1\bin\Debug\pgm 30 Star Pattern 1.exe
+D:\Luminar\jun\pgm 30 Star Pattern 1\pgm 30 Star Pattern 1\bin\Debug\pgm 30 Star Pattern 1.pdb
+D:\Luminar\jun\pgm 30 Star Pattern 1\pgm 30 Star Pattern 1\obj\Debug\pgm 30 Star Pattern 1.exe
+D:\Luminar\jun\pgm 30 Star Pattern 1\pgm 30 Star Pattern 1\obj\Debug\pgm 30 Star Pattern 1.pdb
