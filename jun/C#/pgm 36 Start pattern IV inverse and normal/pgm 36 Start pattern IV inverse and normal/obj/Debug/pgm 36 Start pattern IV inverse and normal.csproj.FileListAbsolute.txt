@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\pgm 36 Start pattern IV inverse and normal\pgm 36 Start pattern IV inverse and normal\bin\Debug\pgm 36 Start pattern IV inverse and normal.exe.config
+C:\Users\ASUS\source\repos\pgm 36 Start pattern IV inverse and normal\pgm 36 Start pattern IV inverse and normal\bin\Debug\pgm 36 Start pattern IV inverse and normal.exe
+C:\Users\ASUS\source\repos\pgm 36 Start pattern IV inverse and normal\pgm 36 Start pattern IV inverse and normal\bin\Debug\pgm 36 Start pattern IV inverse and normal.pdb
+C:\Users\ASUS\source\repos\pgm 36 Start pattern IV inverse and normal\pgm 36 Start pattern IV inverse and normal\obj\Debug\pgm 36 Start pattern IV inverse and normal.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\pgm 36 Start pattern IV inverse and normal\pgm 36 Start pattern IV inverse and normal\obj\Debug\pgm 36 Start pattern IV inverse and normal.exe
+C:\Users\ASUS\source\repos\pgm 36 Start pattern IV inverse and normal\pgm 36 Start pattern IV inverse and normal\obj\Debug\pgm 36 Start pattern IV inverse and normal.pdb

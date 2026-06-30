@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\pgm 35 - inverse triangle\pgm 35 - inverse triangle\obj\Debug\pgm 35 - inverse triangle.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\pgm 35 - inverse triangle\pgm 35 - inverse triangle\bin\Debug\pgm 35 - inverse triangle.exe.config
+C:\Users\ASUS\source\repos\pgm 35 - inverse triangle\pgm 35 - inverse triangle\bin\Debug\pgm 35 - inverse triangle.exe
+C:\Users\ASUS\source\repos\pgm 35 - inverse triangle\pgm 35 - inverse triangle\bin\Debug\pgm 35 - inverse triangle.pdb
+C:\Users\ASUS\source\repos\pgm 35 - inverse triangle\pgm 35 - inverse triangle\obj\Debug\pgm 35 - inverse triangle.exe
+C:\Users\ASUS\source\repos\pgm 35 - inverse triangle\pgm 35 - inverse triangle\obj\Debug\pgm 35 - inverse triangle.pdb

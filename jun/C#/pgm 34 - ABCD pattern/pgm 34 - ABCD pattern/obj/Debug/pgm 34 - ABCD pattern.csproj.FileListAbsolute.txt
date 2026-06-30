@@ -1,0 +1,6 @@
+D:\Luminar\jun\C#\pgm 34 - ABCD pattern\pgm 34 - ABCD pattern\bin\Debug\pgm 34 - ABCD pattern.exe.config
+D:\Luminar\jun\C#\pgm 34 - ABCD pattern\pgm 34 - ABCD pattern\bin\Debug\pgm 34 - ABCD pattern.exe
+D:\Luminar\jun\C#\pgm 34 - ABCD pattern\pgm 34 - ABCD pattern\bin\Debug\pgm 34 - ABCD pattern.pdb
+D:\Luminar\jun\C#\pgm 34 - ABCD pattern\pgm 34 - ABCD pattern\obj\Debug\pgm 34 - ABCD pattern.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\C#\pgm 34 - ABCD pattern\pgm 34 - ABCD pattern\obj\Debug\pgm 34 - ABCD pattern.exe
+D:\Luminar\jun\C#\pgm 34 - ABCD pattern\pgm 34 - ABCD pattern\obj\Debug\pgm 34 - ABCD pattern.pdb

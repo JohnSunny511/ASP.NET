@@ -1,0 +1,7 @@
+D:\Luminar\jun\C#\pgm 32 - Number pattern II\pgm 32 - Number pattern II\bin\Debug\pgm 32 - Number pattern II.exe.config
+D:\Luminar\jun\C#\pgm 32 - Number pattern II\pgm 32 - Number pattern II\bin\Debug\pgm 32 - Number pattern II.exe
+D:\Luminar\jun\C#\pgm 32 - Number pattern II\pgm 32 - Number pattern II\bin\Debug\pgm 32 - Number pattern II.pdb
+D:\Luminar\jun\C#\pgm 32 - Number pattern II\pgm 32 - Number pattern II\obj\Debug\pgm 32 - Number pattern II.csproj.AssemblyReference.cache
+D:\Luminar\jun\C#\pgm 32 - Number pattern II\pgm 32 - Number pattern II\obj\Debug\pgm 32 - Number pattern II.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\C#\pgm 32 - Number pattern II\pgm 32 - Number pattern II\obj\Debug\pgm 32 - Number pattern II.exe
+D:\Luminar\jun\C#\pgm 32 - Number pattern II\pgm 32 - Number pattern II\obj\Debug\pgm 32 - Number pattern II.pdb

@@ -1,0 +1,7 @@
+D:\Luminar\jun\C#\pgm 33 - Even number triangle pattern\pgm 33 - Even number triangle pattern\bin\Debug\pgm 33 - Even number triangle pattern.exe.config
+D:\Luminar\jun\C#\pgm 33 - Even number triangle pattern\pgm 33 - Even number triangle pattern\bin\Debug\pgm 33 - Even number triangle pattern.exe
+D:\Luminar\jun\C#\pgm 33 - Even number triangle pattern\pgm 33 - Even number triangle pattern\bin\Debug\pgm 33 - Even number triangle pattern.pdb
+D:\Luminar\jun\C#\pgm 33 - Even number triangle pattern\pgm 33 - Even number triangle pattern\obj\Debug\pgm 33 - Even number triangle pattern.csproj.AssemblyReference.cache
+D:\Luminar\jun\C#\pgm 33 - Even number triangle pattern\pgm 33 - Even number triangle pattern\obj\Debug\pgm 33 - Even number triangle pattern.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\C#\pgm 33 - Even number triangle pattern\pgm 33 - Even number triangle pattern\obj\Debug\pgm 33 - Even number triangle pattern.exe
+D:\Luminar\jun\C#\pgm 33 - Even number triangle pattern\pgm 33 - Even number triangle pattern\obj\Debug\pgm 33 - Even number triangle pattern.pdb

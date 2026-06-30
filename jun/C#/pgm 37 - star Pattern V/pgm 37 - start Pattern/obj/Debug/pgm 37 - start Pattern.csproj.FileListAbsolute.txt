@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\pgm 37 - start Pattern\pgm 37 - start Pattern\bin\Debug\pgm 37 - start Pattern.exe.config
+C:\Users\ASUS\source\repos\pgm 37 - start Pattern\pgm 37 - start Pattern\bin\Debug\pgm 37 - start Pattern.exe
+C:\Users\ASUS\source\repos\pgm 37 - start Pattern\pgm 37 - start Pattern\bin\Debug\pgm 37 - start Pattern.pdb
+C:\Users\ASUS\source\repos\pgm 37 - start Pattern\pgm 37 - start Pattern\obj\Debug\pgm 37 - start Pattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\pgm 37 - start Pattern\pgm 37 - start Pattern\obj\Debug\pgm 37 - start Pattern.exe
+C:\Users\ASUS\source\repos\pgm 37 - start Pattern\pgm 37 - start Pattern\obj\Debug\pgm 37 - start Pattern.pdb

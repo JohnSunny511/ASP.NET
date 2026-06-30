@@ -1,0 +1,7 @@
+D:\Luminar\jun\C#\pgm 38 - star pyramid\pgm 38 - star pyramid\bin\Debug\pgm 38 - star pyramid.exe.config
+D:\Luminar\jun\C#\pgm 38 - star pyramid\pgm 38 - star pyramid\bin\Debug\pgm 38 - star pyramid.exe
+D:\Luminar\jun\C#\pgm 38 - star pyramid\pgm 38 - star pyramid\bin\Debug\pgm 38 - star pyramid.pdb
+D:\Luminar\jun\C#\pgm 38 - star pyramid\pgm 38 - star pyramid\obj\Debug\pgm 38 - star pyramid.csproj.AssemblyReference.cache
+D:\Luminar\jun\C#\pgm 38 - star pyramid\pgm 38 - star pyramid\obj\Debug\pgm 38 - star pyramid.csproj.CoreCompileInputs.cache
+D:\Luminar\jun\C#\pgm 38 - star pyramid\pgm 38 - star pyramid\obj\Debug\pgm 38 - star pyramid.exe
+D:\Luminar\jun\C#\pgm 38 - star pyramid\pgm 38 - star pyramid\obj\Debug\pgm 38 - star pyramid.pdb

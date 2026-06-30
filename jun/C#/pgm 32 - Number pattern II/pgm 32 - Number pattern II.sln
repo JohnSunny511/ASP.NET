@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37327.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgm 32 - Number pattern II", "pgm 32 - Number pattern II\pgm 32 - Number pattern II.csproj", "{5D7A42F6-472B-4A64-93BB-008C5A0E381C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D7A42F6-472B-4A64-93BB-008C5A0E381C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7A42F6-472B-4A64-93BB-008C5A0E381C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7A42F6-472B-4A64-93BB-008C5A0E381C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7A42F6-472B-4A64-93BB-008C5A0E381C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84BB5D63-3A78-48AF-B123-27DF21F294C3}
+	EndGlobalSection
+EndGlobal
