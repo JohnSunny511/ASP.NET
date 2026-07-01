@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 8 Number of words in string\pgm 8 Number of words in string\bin\Debug\pgm 8 Number of words in string.exe.config
+D:\Luminar\july\C#\pgm 8 Number of words in string\pgm 8 Number of words in string\bin\Debug\pgm 8 Number of words in string.exe
+D:\Luminar\july\C#\pgm 8 Number of words in string\pgm 8 Number of words in string\bin\Debug\pgm 8 Number of words in string.pdb
+D:\Luminar\july\C#\pgm 8 Number of words in string\pgm 8 Number of words in string\obj\Debug\pgm 8 Number of words in string.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 8 Number of words in string\pgm 8 Number of words in string\obj\Debug\pgm 8 Number of words in string.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 8 Number of words in string\pgm 8 Number of words in string\obj\Debug\pgm 8 Number of words in string.exe
+D:\Luminar\july\C#\pgm 8 Number of words in string\pgm 8 Number of words in string\obj\Debug\pgm 8 Number of words in string.pdb

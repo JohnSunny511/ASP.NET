@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 6 string reversal\pgm 6 string reversal\bin\Debug\pgm 6 string reversal.exe.config
+D:\Luminar\july\C#\pgm 6 string reversal\pgm 6 string reversal\bin\Debug\pgm 6 string reversal.exe
+D:\Luminar\july\C#\pgm 6 string reversal\pgm 6 string reversal\bin\Debug\pgm 6 string reversal.pdb
+D:\Luminar\july\C#\pgm 6 string reversal\pgm 6 string reversal\obj\Debug\pgm 6 string reversal.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 6 string reversal\pgm 6 string reversal\obj\Debug\pgm 6 string reversal.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 6 string reversal\pgm 6 string reversal\obj\Debug\pgm 6 string reversal.exe
+D:\Luminar\july\C#\pgm 6 string reversal\pgm 6 string reversal\obj\Debug\pgm 6 string reversal.pdb

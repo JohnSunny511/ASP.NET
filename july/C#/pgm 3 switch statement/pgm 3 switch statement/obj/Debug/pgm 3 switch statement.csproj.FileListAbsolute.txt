@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 3 switch statement\pgm 3 switch statement\bin\Debug\pgm 3 switch statement.exe.config
+D:\Luminar\july\C#\pgm 3 switch statement\pgm 3 switch statement\bin\Debug\pgm 3 switch statement.exe
+D:\Luminar\july\C#\pgm 3 switch statement\pgm 3 switch statement\bin\Debug\pgm 3 switch statement.pdb
+D:\Luminar\july\C#\pgm 3 switch statement\pgm 3 switch statement\obj\Debug\pgm 3 switch statement.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 3 switch statement\pgm 3 switch statement\obj\Debug\pgm 3 switch statement.exe
+D:\Luminar\july\C#\pgm 3 switch statement\pgm 3 switch statement\obj\Debug\pgm 3 switch statement.pdb

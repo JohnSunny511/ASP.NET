@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 4 Goto statemens\pgm 4 Goto statemens\obj\Debug\pgm 4 Goto statemens.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 4 Goto statemens\pgm 4 Goto statemens\bin\Debug\pgm 4 Goto statemens.exe.config
+D:\Luminar\july\C#\pgm 4 Goto statemens\pgm 4 Goto statemens\bin\Debug\pgm 4 Goto statemens.exe
+D:\Luminar\july\C#\pgm 4 Goto statemens\pgm 4 Goto statemens\bin\Debug\pgm 4 Goto statemens.pdb
+D:\Luminar\july\C#\pgm 4 Goto statemens\pgm 4 Goto statemens\obj\Debug\pgm 4 Goto statemens.exe
+D:\Luminar\july\C#\pgm 4 Goto statemens\pgm 4 Goto statemens\obj\Debug\pgm 4 Goto statemens.pdb

@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 5 Goto II\pgm 5 Goto II\bin\Debug\pgm 5 Goto II.exe.config
+D:\Luminar\july\C#\pgm 5 Goto II\pgm 5 Goto II\bin\Debug\pgm 5 Goto II.exe
+D:\Luminar\july\C#\pgm 5 Goto II\pgm 5 Goto II\bin\Debug\pgm 5 Goto II.pdb
+D:\Luminar\july\C#\pgm 5 Goto II\pgm 5 Goto II\obj\Debug\pgm 5 Goto II.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 5 Goto II\pgm 5 Goto II\obj\Debug\pgm 5 Goto II.exe
+D:\Luminar\july\C#\pgm 5 Goto II\pgm 5 Goto II\obj\Debug\pgm 5 Goto II.pdb

@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\Ass Pgm 1\Ass Pgm 1\bin\Debug\Ass Pgm 1.exe.config
+D:\Luminar\july\C#\Ass Pgm 1\Ass Pgm 1\bin\Debug\Ass Pgm 1.exe
+D:\Luminar\july\C#\Ass Pgm 1\Ass Pgm 1\bin\Debug\Ass Pgm 1.pdb
+D:\Luminar\july\C#\Ass Pgm 1\Ass Pgm 1\obj\Debug\Ass Pgm 1.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\Ass Pgm 1\Ass Pgm 1\obj\Debug\Ass Pgm 1.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\Ass Pgm 1\Ass Pgm 1\obj\Debug\Ass Pgm 1.exe
+D:\Luminar\july\C#\Ass Pgm 1\Ass Pgm 1\obj\Debug\Ass Pgm 1.pdb

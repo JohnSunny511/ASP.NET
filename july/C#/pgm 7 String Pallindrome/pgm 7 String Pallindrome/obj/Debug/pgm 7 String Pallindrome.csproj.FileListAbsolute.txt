@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 7 String Pallindrome\pgm 7 String Pallindrome\bin\Debug\pgm 7 String Pallindrome.exe.config
+D:\Luminar\july\C#\pgm 7 String Pallindrome\pgm 7 String Pallindrome\bin\Debug\pgm 7 String Pallindrome.exe
+D:\Luminar\july\C#\pgm 7 String Pallindrome\pgm 7 String Pallindrome\bin\Debug\pgm 7 String Pallindrome.pdb
+D:\Luminar\july\C#\pgm 7 String Pallindrome\pgm 7 String Pallindrome\obj\Debug\pgm 7 String Pallindrome.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 7 String Pallindrome\pgm 7 String Pallindrome\obj\Debug\pgm 7 String Pallindrome.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 7 String Pallindrome\pgm 7 String Pallindrome\obj\Debug\pgm 7 String Pallindrome.exe
+D:\Luminar\july\C#\pgm 7 String Pallindrome\pgm 7 String Pallindrome\obj\Debug\pgm 7 String Pallindrome.pdb

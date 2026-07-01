@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37327.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgm 8 Number of words in string", "pgm 8 Number of words in string\pgm 8 Number of words in string.csproj", "{17E74341-98F5-407F-B1AD-EF65BADB4B43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E74341-98F5-407F-B1AD-EF65BADB4B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E74341-98F5-407F-B1AD-EF65BADB4B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E74341-98F5-407F-B1AD-EF65BADB4B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E74341-98F5-407F-B1AD-EF65BADB4B43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BACC25FE-00AE-4550-A13E-EFC9FB077D3D}
+	EndGlobalSection
+EndGlobal
