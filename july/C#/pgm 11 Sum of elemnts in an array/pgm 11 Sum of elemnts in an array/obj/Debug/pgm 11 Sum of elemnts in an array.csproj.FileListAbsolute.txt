@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\pgm 11 Sum of elemnts in an array\pgm 11 Sum of elemnts in an array\bin\Debug\pgm 11 Sum of elemnts in an array.exe.config
+C:\Users\ASUS\source\repos\pgm 11 Sum of elemnts in an array\pgm 11 Sum of elemnts in an array\bin\Debug\pgm 11 Sum of elemnts in an array.exe
+C:\Users\ASUS\source\repos\pgm 11 Sum of elemnts in an array\pgm 11 Sum of elemnts in an array\bin\Debug\pgm 11 Sum of elemnts in an array.pdb
+C:\Users\ASUS\source\repos\pgm 11 Sum of elemnts in an array\pgm 11 Sum of elemnts in an array\obj\Debug\pgm 11 Sum of elemnts in an array.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\pgm 11 Sum of elemnts in an array\pgm 11 Sum of elemnts in an array\obj\Debug\pgm 11 Sum of elemnts in an array.exe
+C:\Users\ASUS\source\repos\pgm 11 Sum of elemnts in an array\pgm 11 Sum of elemnts in an array\obj\Debug\pgm 11 Sum of elemnts in an array.pdb

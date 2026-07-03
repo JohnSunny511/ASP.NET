@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37327.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgm 9 Reverse of words in a string", "pgm 9 Reverse of words in a string\pgm 9 Reverse of words in a string.csproj", "{A5CA09D8-3EF7-4FC1-BD28-11061C00F6AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5CA09D8-3EF7-4FC1-BD28-11061C00F6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CA09D8-3EF7-4FC1-BD28-11061C00F6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CA09D8-3EF7-4FC1-BD28-11061C00F6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CA09D8-3EF7-4FC1-BD28-11061C00F6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3E5104F-DBC2-4C58-94DE-4C2450446258}
+	EndGlobalSection
+EndGlobal

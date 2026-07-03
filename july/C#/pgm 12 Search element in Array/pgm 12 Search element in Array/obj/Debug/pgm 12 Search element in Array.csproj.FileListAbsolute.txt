@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\pgm 12 Search element in Array\pgm 12 Search element in Array\bin\Debug\pgm 12 Search element in Array.exe.config
+C:\Users\ASUS\source\repos\pgm 12 Search element in Array\pgm 12 Search element in Array\bin\Debug\pgm 12 Search element in Array.exe
+C:\Users\ASUS\source\repos\pgm 12 Search element in Array\pgm 12 Search element in Array\bin\Debug\pgm 12 Search element in Array.pdb
+C:\Users\ASUS\source\repos\pgm 12 Search element in Array\pgm 12 Search element in Array\obj\Debug\pgm 12 Search element in Array.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\pgm 12 Search element in Array\pgm 12 Search element in Array\obj\Debug\pgm 12 Search element in Array.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\pgm 12 Search element in Array\pgm 12 Search element in Array\obj\Debug\pgm 12 Search element in Array.exe
+C:\Users\ASUS\source\repos\pgm 12 Search element in Array\pgm 12 Search element in Array\obj\Debug\pgm 12 Search element in Array.pdb

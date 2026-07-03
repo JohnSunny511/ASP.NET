@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 16 Matrix Multiplication\pgm 16 Matrix Multiplication\bin\Debug\pgm 16 Matrix Multiplication.exe.config
+D:\Luminar\july\C#\pgm 16 Matrix Multiplication\pgm 16 Matrix Multiplication\bin\Debug\pgm 16 Matrix Multiplication.exe
+D:\Luminar\july\C#\pgm 16 Matrix Multiplication\pgm 16 Matrix Multiplication\bin\Debug\pgm 16 Matrix Multiplication.pdb
+D:\Luminar\july\C#\pgm 16 Matrix Multiplication\pgm 16 Matrix Multiplication\obj\Debug\pgm 16 Matrix Multiplication.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 16 Matrix Multiplication\pgm 16 Matrix Multiplication\obj\Debug\pgm 16 Matrix Multiplication.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 16 Matrix Multiplication\pgm 16 Matrix Multiplication\obj\Debug\pgm 16 Matrix Multiplication.exe
+D:\Luminar\july\C#\pgm 16 Matrix Multiplication\pgm 16 Matrix Multiplication\obj\Debug\pgm 16 Matrix Multiplication.pdb

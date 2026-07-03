@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\pgm 13 Insertion Sort\pgm 13 Insertion Sort\bin\Debug\pgm 13 Insertion Sort.exe.config
+C:\Users\ASUS\source\repos\pgm 13 Insertion Sort\pgm 13 Insertion Sort\bin\Debug\pgm 13 Insertion Sort.exe
+C:\Users\ASUS\source\repos\pgm 13 Insertion Sort\pgm 13 Insertion Sort\bin\Debug\pgm 13 Insertion Sort.pdb
+C:\Users\ASUS\source\repos\pgm 13 Insertion Sort\pgm 13 Insertion Sort\obj\Debug\pgm 13 Insertion Sort.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\pgm 13 Insertion Sort\pgm 13 Insertion Sort\obj\Debug\pgm 13 Insertion Sort.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\pgm 13 Insertion Sort\pgm 13 Insertion Sort\obj\Debug\pgm 13 Insertion Sort.exe
+C:\Users\ASUS\source\repos\pgm 13 Insertion Sort\pgm 13 Insertion Sort\obj\Debug\pgm 13 Insertion Sort.pdb

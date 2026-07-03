@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 15 Matrix Addition\pgm 15 Matrix Addition\bin\Debug\pgm 15 Matrix Addition.exe.config
+D:\Luminar\july\C#\pgm 15 Matrix Addition\pgm 15 Matrix Addition\bin\Debug\pgm 15 Matrix Addition.exe
+D:\Luminar\july\C#\pgm 15 Matrix Addition\pgm 15 Matrix Addition\bin\Debug\pgm 15 Matrix Addition.pdb
+D:\Luminar\july\C#\pgm 15 Matrix Addition\pgm 15 Matrix Addition\obj\Debug\pgm 15 Matrix Addition.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 15 Matrix Addition\pgm 15 Matrix Addition\obj\Debug\pgm 15 Matrix Addition.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 15 Matrix Addition\pgm 15 Matrix Addition\obj\Debug\pgm 15 Matrix Addition.exe
+D:\Luminar\july\C#\pgm 15 Matrix Addition\pgm 15 Matrix Addition\obj\Debug\pgm 15 Matrix Addition.pdb

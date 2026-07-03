@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\pgm 10 Read and Display 1D Array\pgm 10 Read and Display 1D Array\bin\Debug\pgm 10 Read and Display 1D Array.exe.config
+C:\Users\ASUS\source\repos\pgm 10 Read and Display 1D Array\pgm 10 Read and Display 1D Array\bin\Debug\pgm 10 Read and Display 1D Array.exe
+C:\Users\ASUS\source\repos\pgm 10 Read and Display 1D Array\pgm 10 Read and Display 1D Array\bin\Debug\pgm 10 Read and Display 1D Array.pdb
+C:\Users\ASUS\source\repos\pgm 10 Read and Display 1D Array\pgm 10 Read and Display 1D Array\obj\Debug\pgm 10 Read and Display 1D Array.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\pgm 10 Read and Display 1D Array\pgm 10 Read and Display 1D Array\obj\Debug\pgm 10 Read and Display 1D Array.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\pgm 10 Read and Display 1D Array\pgm 10 Read and Display 1D Array\obj\Debug\pgm 10 Read and Display 1D Array.exe
+C:\Users\ASUS\source\repos\pgm 10 Read and Display 1D Array\pgm 10 Read and Display 1D Array\obj\Debug\pgm 10 Read and Display 1D Array.pdb

@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 14 2D Matrix\pgm 14 2D Matrix\bin\Debug\pgm 14 2D Matrix.exe.config
+D:\Luminar\july\C#\pgm 14 2D Matrix\pgm 14 2D Matrix\bin\Debug\pgm 14 2D Matrix.exe
+D:\Luminar\july\C#\pgm 14 2D Matrix\pgm 14 2D Matrix\bin\Debug\pgm 14 2D Matrix.pdb
+D:\Luminar\july\C#\pgm 14 2D Matrix\pgm 14 2D Matrix\obj\Debug\pgm 14 2D Matrix.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 14 2D Matrix\pgm 14 2D Matrix\obj\Debug\pgm 14 2D Matrix.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 14 2D Matrix\pgm 14 2D Matrix\obj\Debug\pgm 14 2D Matrix.exe
+D:\Luminar\july\C#\pgm 14 2D Matrix\pgm 14 2D Matrix\obj\Debug\pgm 14 2D Matrix.pdb
