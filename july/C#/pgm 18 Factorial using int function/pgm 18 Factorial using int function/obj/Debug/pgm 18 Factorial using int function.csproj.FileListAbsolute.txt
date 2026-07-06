@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 18 Factorial using int function\pgm 18 Factorial using int function\obj\Debug\pgm 18 Factorial using int function.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 18 Factorial using int function\pgm 18 Factorial using int function\obj\Debug\pgm 18 Factorial using int function.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 18 Factorial using int function\pgm 18 Factorial using int function\bin\Debug\pgm 18 Factorial using int function.exe.config
+D:\Luminar\july\C#\pgm 18 Factorial using int function\pgm 18 Factorial using int function\bin\Debug\pgm 18 Factorial using int function.exe
+D:\Luminar\july\C#\pgm 18 Factorial using int function\pgm 18 Factorial using int function\bin\Debug\pgm 18 Factorial using int function.pdb
+D:\Luminar\july\C#\pgm 18 Factorial using int function\pgm 18 Factorial using int function\obj\Debug\pgm 18 Factorial using int function.exe
+D:\Luminar\july\C#\pgm 18 Factorial using int function\pgm 18 Factorial using int function\obj\Debug\pgm 18 Factorial using int function.pdb

@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 17 function calling\pgm 17 function calling\bin\Debug\pgm 17 function calling.exe.config
+D:\Luminar\july\C#\pgm 17 function calling\pgm 17 function calling\bin\Debug\pgm 17 function calling.exe
+D:\Luminar\july\C#\pgm 17 function calling\pgm 17 function calling\bin\Debug\pgm 17 function calling.pdb
+D:\Luminar\july\C#\pgm 17 function calling\pgm 17 function calling\obj\Debug\pgm 17 function calling.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 17 function calling\pgm 17 function calling\obj\Debug\pgm 17 function calling.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 17 function calling\pgm 17 function calling\obj\Debug\pgm 17 function calling.exe
+D:\Luminar\july\C#\pgm 17 function calling\pgm 17 function calling\obj\Debug\pgm 17 function calling.pdb
