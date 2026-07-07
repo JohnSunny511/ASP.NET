@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 19 Reference Parameter ( Pass by address)\pgm 19 Reference Parameter ( Pass by address)\obj\Debug\pgm 19 Reference Parameter ( Pass by address).csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 19 Reference Parameter ( Pass by address)\pgm 19 Reference Parameter ( Pass by address)\bin\Debug\pgm 19 Reference Parameter ( Pass by address).exe.config
+D:\Luminar\july\C#\pgm 19 Reference Parameter ( Pass by address)\pgm 19 Reference Parameter ( Pass by address)\bin\Debug\pgm 19 Reference Parameter ( Pass by address).exe
+D:\Luminar\july\C#\pgm 19 Reference Parameter ( Pass by address)\pgm 19 Reference Parameter ( Pass by address)\bin\Debug\pgm 19 Reference Parameter ( Pass by address).pdb
+D:\Luminar\july\C#\pgm 19 Reference Parameter ( Pass by address)\pgm 19 Reference Parameter ( Pass by address)\obj\Debug\pgm 19 Reference Parameter ( Pass by address).exe
+D:\Luminar\july\C#\pgm 19 Reference Parameter ( Pass by address)\pgm 19 Reference Parameter ( Pass by address)\obj\Debug\pgm 19 Reference Parameter ( Pass by address).pdb

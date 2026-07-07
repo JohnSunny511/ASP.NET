@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 20 Input parameters Q1\pgm 20 Input parameters Q1\bin\Debug\pgm 20 Input parameters Q1.exe.config
+D:\Luminar\july\C#\pgm 20 Input parameters Q1\pgm 20 Input parameters Q1\bin\Debug\pgm 20 Input parameters Q1.exe
+D:\Luminar\july\C#\pgm 20 Input parameters Q1\pgm 20 Input parameters Q1\bin\Debug\pgm 20 Input parameters Q1.pdb
+D:\Luminar\july\C#\pgm 20 Input parameters Q1\pgm 20 Input parameters Q1\obj\Debug\pgm 20 Input parameters Q1.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 20 Input parameters Q1\pgm 20 Input parameters Q1\obj\Debug\pgm 20 Input parameters Q1.exe
+D:\Luminar\july\C#\pgm 20 Input parameters Q1\pgm 20 Input parameters Q1\obj\Debug\pgm 20 Input parameters Q1.pdb

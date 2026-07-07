@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 24 Single Inheritance\pgm 24 Single Inheritance\obj\Debug\pgm 24 Single Inheritance.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 24 Single Inheritance\pgm 24 Single Inheritance\bin\Debug\pgm 24 Single Inheritance.exe.config
+D:\Luminar\july\C#\pgm 24 Single Inheritance\pgm 24 Single Inheritance\bin\Debug\pgm 24 Single Inheritance.exe
+D:\Luminar\july\C#\pgm 24 Single Inheritance\pgm 24 Single Inheritance\bin\Debug\pgm 24 Single Inheritance.pdb
+D:\Luminar\july\C#\pgm 24 Single Inheritance\pgm 24 Single Inheritance\obj\Debug\pgm 24 Single Inheritance.exe
+D:\Luminar\july\C#\pgm 24 Single Inheritance\pgm 24 Single Inheritance\obj\Debug\pgm 24 Single Inheritance.pdb

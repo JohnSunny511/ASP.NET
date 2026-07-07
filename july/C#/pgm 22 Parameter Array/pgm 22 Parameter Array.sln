@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37327.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgm 22 Parameter Array", "pgm 22 Parameter Array\pgm 22 Parameter Array.csproj", "{4CFE8829-B36E-44A1-ADD9-FF00B8F95756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CFE8829-B36E-44A1-ADD9-FF00B8F95756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CFE8829-B36E-44A1-ADD9-FF00B8F95756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CFE8829-B36E-44A1-ADD9-FF00B8F95756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CFE8829-B36E-44A1-ADD9-FF00B8F95756}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F4180A6-E269-41C8-9375-74BA7DDE7240}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 19 Pass by Value\pgm 19 Pass by Value\bin\Debug\pgm 19 Pass by Value.exe.config
+D:\Luminar\july\C#\pgm 19 Pass by Value\pgm 19 Pass by Value\bin\Debug\pgm 19 Pass by Value.exe
+D:\Luminar\july\C#\pgm 19 Pass by Value\pgm 19 Pass by Value\bin\Debug\pgm 19 Pass by Value.pdb
+D:\Luminar\july\C#\pgm 19 Pass by Value\pgm 19 Pass by Value\obj\Debug\pgm 19 Pass by Value.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 19 Pass by Value\pgm 19 Pass by Value\obj\Debug\pgm 19 Pass by Value.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 19 Pass by Value\pgm 19 Pass by Value\obj\Debug\pgm 19 Pass by Value.exe
+D:\Luminar\july\C#\pgm 19 Pass by Value\pgm 19 Pass by Value\obj\Debug\pgm 19 Pass by Value.pdb

@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 23 Output Parameter\pgm 23 Output Parameter\obj\Debug\pgm 23 Output Parameter.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 23 Output Parameter\pgm 23 Output Parameter\bin\Debug\pgm 23 Output Parameter.exe.config
+D:\Luminar\july\C#\pgm 23 Output Parameter\pgm 23 Output Parameter\bin\Debug\pgm 23 Output Parameter.exe
+D:\Luminar\july\C#\pgm 23 Output Parameter\pgm 23 Output Parameter\bin\Debug\pgm 23 Output Parameter.pdb
+D:\Luminar\july\C#\pgm 23 Output Parameter\pgm 23 Output Parameter\obj\Debug\pgm 23 Output Parameter.exe
+D:\Luminar\july\C#\pgm 23 Output Parameter\pgm 23 Output Parameter\obj\Debug\pgm 23 Output Parameter.pdb
+D:\Luminar\july\C#\pgm 23 Output Parameter\pgm 23 Output Parameter\obj\Debug\pgm 23 Output Parameter.csproj.AssemblyReference.cache

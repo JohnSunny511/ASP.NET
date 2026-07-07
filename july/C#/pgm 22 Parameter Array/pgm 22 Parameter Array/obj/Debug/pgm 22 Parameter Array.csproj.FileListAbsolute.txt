@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 22 Parameter Array\pgm 22 Parameter Array\obj\Debug\pgm 22 Parameter Array.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 22 Parameter Array\pgm 22 Parameter Array\obj\Debug\pgm 22 Parameter Array.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 22 Parameter Array\pgm 22 Parameter Array\bin\Debug\pgm 22 Parameter Array.exe.config
+D:\Luminar\july\C#\pgm 22 Parameter Array\pgm 22 Parameter Array\bin\Debug\pgm 22 Parameter Array.exe
+D:\Luminar\july\C#\pgm 22 Parameter Array\pgm 22 Parameter Array\bin\Debug\pgm 22 Parameter Array.pdb
+D:\Luminar\july\C#\pgm 22 Parameter Array\pgm 22 Parameter Array\obj\Debug\pgm 22 Parameter Array.exe
+D:\Luminar\july\C#\pgm 22 Parameter Array\pgm 22 Parameter Array\obj\Debug\pgm 22 Parameter Array.pdb
