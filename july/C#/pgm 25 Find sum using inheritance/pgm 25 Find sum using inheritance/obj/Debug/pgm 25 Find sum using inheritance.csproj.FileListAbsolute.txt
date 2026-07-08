@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 25 Find sum using inheritance\pgm 25 Find sum using inheritance\obj\Debug\pgm 25 Find sum using inheritance.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 25 Find sum using inheritance\pgm 25 Find sum using inheritance\obj\Debug\pgm 25 Find sum using inheritance.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 25 Find sum using inheritance\pgm 25 Find sum using inheritance\bin\Debug\pgm 25 Find sum using inheritance.exe.config
+D:\Luminar\july\C#\pgm 25 Find sum using inheritance\pgm 25 Find sum using inheritance\bin\Debug\pgm 25 Find sum using inheritance.exe
+D:\Luminar\july\C#\pgm 25 Find sum using inheritance\pgm 25 Find sum using inheritance\bin\Debug\pgm 25 Find sum using inheritance.pdb
+D:\Luminar\july\C#\pgm 25 Find sum using inheritance\pgm 25 Find sum using inheritance\obj\Debug\pgm 25 Find sum using inheritance.exe
+D:\Luminar\july\C#\pgm 25 Find sum using inheritance\pgm 25 Find sum using inheritance\obj\Debug\pgm 25 Find sum using inheritance.pdb

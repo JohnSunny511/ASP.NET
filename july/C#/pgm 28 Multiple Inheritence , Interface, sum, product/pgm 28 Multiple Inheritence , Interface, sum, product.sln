@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37327.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgm 28 Multiple Inheritence , Interface, sum, product", "pgm 28 Multiple Inheritence , Interface, sum, product\pgm 28 Multiple Inheritence , Interface, sum, product.csproj", "{EE64CBB2-4A25-49B1-8552-06F23802B263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE64CBB2-4A25-49B1-8552-06F23802B263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE64CBB2-4A25-49B1-8552-06F23802B263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE64CBB2-4A25-49B1-8552-06F23802B263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE64CBB2-4A25-49B1-8552-06F23802B263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CA64B2E-8745-41C2-8F36-F78B132C8296}
+	EndGlobalSection
+EndGlobal

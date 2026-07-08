@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 28 Multiple Inheritence , Interface, sum, product\pgm 28 Multiple Inheritence , Interface, sum, product\obj\Debug\pgm 28 Multiple Inheritence , Interface, sum, product.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 28 Multiple Inheritence , Interface, sum, product\pgm 28 Multiple Inheritence , Interface, sum, product\obj\Debug\pgm 28 Multiple Inheritence , Interface, sum, product.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 28 Multiple Inheritence , Interface, sum, product\pgm 28 Multiple Inheritence , Interface, sum, product\bin\Debug\pgm 28 Multiple Inheritence , Interface, sum, product.exe.config
+D:\Luminar\july\C#\pgm 28 Multiple Inheritence , Interface, sum, product\pgm 28 Multiple Inheritence , Interface, sum, product\bin\Debug\pgm 28 Multiple Inheritence , Interface, sum, product.exe
+D:\Luminar\july\C#\pgm 28 Multiple Inheritence , Interface, sum, product\pgm 28 Multiple Inheritence , Interface, sum, product\bin\Debug\pgm 28 Multiple Inheritence , Interface, sum, product.pdb
+D:\Luminar\july\C#\pgm 28 Multiple Inheritence , Interface, sum, product\pgm 28 Multiple Inheritence , Interface, sum, product\obj\Debug\pgm 28 Multiple Inheritence , Interface, sum, product.exe
+D:\Luminar\july\C#\pgm 28 Multiple Inheritence , Interface, sum, product\pgm 28 Multiple Inheritence , Interface, sum, product\obj\Debug\pgm 28 Multiple Inheritence , Interface, sum, product.pdb

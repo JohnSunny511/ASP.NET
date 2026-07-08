@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 27 Hierarchical Inheritance  sum,Avg,Product\pgm 27 Hierarchical Inheritance  sum,Avg,Product\bin\Debug\pgm 27 Hierarchical Inheritance  sum,Avg,Product.exe.config
+D:\Luminar\july\C#\pgm 27 Hierarchical Inheritance  sum,Avg,Product\pgm 27 Hierarchical Inheritance  sum,Avg,Product\bin\Debug\pgm 27 Hierarchical Inheritance  sum,Avg,Product.exe
+D:\Luminar\july\C#\pgm 27 Hierarchical Inheritance  sum,Avg,Product\pgm 27 Hierarchical Inheritance  sum,Avg,Product\bin\Debug\pgm 27 Hierarchical Inheritance  sum,Avg,Product.pdb
+D:\Luminar\july\C#\pgm 27 Hierarchical Inheritance  sum,Avg,Product\pgm 27 Hierarchical Inheritance  sum,Avg,Product\obj\Debug\pgm 27 Hierarchical Inheritance  sum,Avg,Product.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 27 Hierarchical Inheritance  sum,Avg,Product\pgm 27 Hierarchical Inheritance  sum,Avg,Product\obj\Debug\pgm 27 Hierarchical Inheritance  sum,Avg,Product.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 27 Hierarchical Inheritance  sum,Avg,Product\pgm 27 Hierarchical Inheritance  sum,Avg,Product\obj\Debug\pgm 27 Hierarchical Inheritance  sum,Avg,Product.exe
+D:\Luminar\july\C#\pgm 27 Hierarchical Inheritance  sum,Avg,Product\pgm 27 Hierarchical Inheritance  sum,Avg,Product\obj\Debug\pgm 27 Hierarchical Inheritance  sum,Avg,Product.pdb

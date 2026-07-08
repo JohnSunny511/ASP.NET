@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 26 Sum and Average using Multilevel Inheritance\pgm 26 Sum and Average using Multilevel Inheritance\obj\Debug\pgm 26 Sum and Average using Multilevel Inheritance.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 26 Sum and Average using Multilevel Inheritance\pgm 26 Sum and Average using Multilevel Inheritance\bin\Debug\pgm 26 Sum and Average using Multilevel Inheritance.exe.config
+D:\Luminar\july\C#\pgm 26 Sum and Average using Multilevel Inheritance\pgm 26 Sum and Average using Multilevel Inheritance\bin\Debug\pgm 26 Sum and Average using Multilevel Inheritance.exe
+D:\Luminar\july\C#\pgm 26 Sum and Average using Multilevel Inheritance\pgm 26 Sum and Average using Multilevel Inheritance\bin\Debug\pgm 26 Sum and Average using Multilevel Inheritance.pdb
+D:\Luminar\july\C#\pgm 26 Sum and Average using Multilevel Inheritance\pgm 26 Sum and Average using Multilevel Inheritance\obj\Debug\pgm 26 Sum and Average using Multilevel Inheritance.exe
+D:\Luminar\july\C#\pgm 26 Sum and Average using Multilevel Inheritance\pgm 26 Sum and Average using Multilevel Inheritance\obj\Debug\pgm 26 Sum and Average using Multilevel Inheritance.pdb
