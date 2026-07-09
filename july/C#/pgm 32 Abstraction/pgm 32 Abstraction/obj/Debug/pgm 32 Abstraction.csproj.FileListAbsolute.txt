@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 32 Abstraction\pgm 32 Abstraction\bin\Debug\pgm 32 Abstraction.exe.config
+D:\Luminar\july\C#\pgm 32 Abstraction\pgm 32 Abstraction\bin\Debug\pgm 32 Abstraction.exe
+D:\Luminar\july\C#\pgm 32 Abstraction\pgm 32 Abstraction\bin\Debug\pgm 32 Abstraction.pdb
+D:\Luminar\july\C#\pgm 32 Abstraction\pgm 32 Abstraction\obj\Debug\pgm 32 Abstraction.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 32 Abstraction\pgm 32 Abstraction\obj\Debug\pgm 32 Abstraction.exe
+D:\Luminar\july\C#\pgm 32 Abstraction\pgm 32 Abstraction\obj\Debug\pgm 32 Abstraction.pdb

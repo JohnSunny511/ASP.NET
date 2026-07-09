@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 33 Reverse in Abstract class - exam model\pgm 33 Reverse in Abstract class - exam model\obj\Debug\pgm 33 Reverse in Abstract class - exam model.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 33 Reverse in Abstract class - exam model\pgm 33 Reverse in Abstract class - exam model\bin\Debug\pgm 33 Reverse in Abstract class - exam model.exe.config
+D:\Luminar\july\C#\pgm 33 Reverse in Abstract class - exam model\pgm 33 Reverse in Abstract class - exam model\bin\Debug\pgm 33 Reverse in Abstract class - exam model.exe
+D:\Luminar\july\C#\pgm 33 Reverse in Abstract class - exam model\pgm 33 Reverse in Abstract class - exam model\bin\Debug\pgm 33 Reverse in Abstract class - exam model.pdb
+D:\Luminar\july\C#\pgm 33 Reverse in Abstract class - exam model\pgm 33 Reverse in Abstract class - exam model\obj\Debug\pgm 33 Reverse in Abstract class - exam model.exe
+D:\Luminar\july\C#\pgm 33 Reverse in Abstract class - exam model\pgm 33 Reverse in Abstract class - exam model\obj\Debug\pgm 33 Reverse in Abstract class - exam model.pdb

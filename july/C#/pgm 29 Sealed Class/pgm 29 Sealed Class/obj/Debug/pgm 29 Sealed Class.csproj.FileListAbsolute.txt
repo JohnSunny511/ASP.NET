@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 29 Sealed Class\pgm 29 Sealed Class\bin\Debug\pgm 29 Sealed Class.exe.config
+D:\Luminar\july\C#\pgm 29 Sealed Class\pgm 29 Sealed Class\bin\Debug\pgm 29 Sealed Class.exe
+D:\Luminar\july\C#\pgm 29 Sealed Class\pgm 29 Sealed Class\bin\Debug\pgm 29 Sealed Class.pdb
+D:\Luminar\july\C#\pgm 29 Sealed Class\pgm 29 Sealed Class\obj\Debug\pgm 29 Sealed Class.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 29 Sealed Class\pgm 29 Sealed Class\obj\Debug\pgm 29 Sealed Class.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 29 Sealed Class\pgm 29 Sealed Class\obj\Debug\pgm 29 Sealed Class.exe
+D:\Luminar\july\C#\pgm 29 Sealed Class\pgm 29 Sealed Class\obj\Debug\pgm 29 Sealed Class.pdb
