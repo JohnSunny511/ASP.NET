@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 35 Read Write Property - Just for understanding\pgm 35 Read Write Property - Just for understanding\bin\Debug\pgm 35 Read Write Property - Just for understanding.exe.config
+D:\Luminar\july\C#\pgm 35 Read Write Property - Just for understanding\pgm 35 Read Write Property - Just for understanding\bin\Debug\pgm 35 Read Write Property - Just for understanding.exe
+D:\Luminar\july\C#\pgm 35 Read Write Property - Just for understanding\pgm 35 Read Write Property - Just for understanding\bin\Debug\pgm 35 Read Write Property - Just for understanding.pdb
+D:\Luminar\july\C#\pgm 35 Read Write Property - Just for understanding\pgm 35 Read Write Property - Just for understanding\obj\Debug\pgm 35 Read Write Property - Just for understanding.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 35 Read Write Property - Just for understanding\pgm 35 Read Write Property - Just for understanding\obj\Debug\pgm 35 Read Write Property - Just for understanding.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 35 Read Write Property - Just for understanding\pgm 35 Read Write Property - Just for understanding\obj\Debug\pgm 35 Read Write Property - Just for understanding.exe
+D:\Luminar\july\C#\pgm 35 Read Write Property - Just for understanding\pgm 35 Read Write Property - Just for understanding\obj\Debug\pgm 35 Read Write Property - Just for understanding.pdb

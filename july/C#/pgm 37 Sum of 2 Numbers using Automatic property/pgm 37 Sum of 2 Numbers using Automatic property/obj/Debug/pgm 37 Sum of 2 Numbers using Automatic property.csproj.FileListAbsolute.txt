@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 37 Sum of 2 Numbers using Automatic property\pgm 37 Sum of 2 Numbers using Automatic property\bin\Debug\pgm 37 Sum of 2 Numbers using Automatic property.exe.config
+D:\Luminar\july\C#\pgm 37 Sum of 2 Numbers using Automatic property\pgm 37 Sum of 2 Numbers using Automatic property\bin\Debug\pgm 37 Sum of 2 Numbers using Automatic property.exe
+D:\Luminar\july\C#\pgm 37 Sum of 2 Numbers using Automatic property\pgm 37 Sum of 2 Numbers using Automatic property\bin\Debug\pgm 37 Sum of 2 Numbers using Automatic property.pdb
+D:\Luminar\july\C#\pgm 37 Sum of 2 Numbers using Automatic property\pgm 37 Sum of 2 Numbers using Automatic property\obj\Debug\pgm 37 Sum of 2 Numbers using Automatic property.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 37 Sum of 2 Numbers using Automatic property\pgm 37 Sum of 2 Numbers using Automatic property\obj\Debug\pgm 37 Sum of 2 Numbers using Automatic property.exe
+D:\Luminar\july\C#\pgm 37 Sum of 2 Numbers using Automatic property\pgm 37 Sum of 2 Numbers using Automatic property\obj\Debug\pgm 37 Sum of 2 Numbers using Automatic property.pdb

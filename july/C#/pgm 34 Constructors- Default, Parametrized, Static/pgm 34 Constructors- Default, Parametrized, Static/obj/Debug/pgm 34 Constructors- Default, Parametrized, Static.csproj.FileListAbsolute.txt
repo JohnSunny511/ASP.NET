@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 34 Constructors- Default, Parametrized, Static\pgm 34 Constructors- Default, Parametrized, Static\obj\Debug\pgm 34 Constructors- Default, Parametrized, Static.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 34 Constructors- Default, Parametrized, Static\pgm 34 Constructors- Default, Parametrized, Static\obj\Debug\pgm 34 Constructors- Default, Parametrized, Static.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 34 Constructors- Default, Parametrized, Static\pgm 34 Constructors- Default, Parametrized, Static\bin\Debug\pgm 34 Constructors- Default, Parametrized, Static.exe.config
+D:\Luminar\july\C#\pgm 34 Constructors- Default, Parametrized, Static\pgm 34 Constructors- Default, Parametrized, Static\bin\Debug\pgm 34 Constructors- Default, Parametrized, Static.exe
+D:\Luminar\july\C#\pgm 34 Constructors- Default, Parametrized, Static\pgm 34 Constructors- Default, Parametrized, Static\bin\Debug\pgm 34 Constructors- Default, Parametrized, Static.pdb
+D:\Luminar\july\C#\pgm 34 Constructors- Default, Parametrized, Static\pgm 34 Constructors- Default, Parametrized, Static\obj\Debug\pgm 34 Constructors- Default, Parametrized, Static.exe
+D:\Luminar\july\C#\pgm 34 Constructors- Default, Parametrized, Static\pgm 34 Constructors- Default, Parametrized, Static\obj\Debug\pgm 34 Constructors- Default, Parametrized, Static.pdb

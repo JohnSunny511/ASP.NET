@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37327.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgm 38 Generic Class and Methods", "pgm 38 Generic Class and Methods\pgm 38 Generic Class and Methods.csproj", "{1EFCEB8A-C03C-4A31-BA2F-C78FF42535DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EFCEB8A-C03C-4A31-BA2F-C78FF42535DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFCEB8A-C03C-4A31-BA2F-C78FF42535DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFCEB8A-C03C-4A31-BA2F-C78FF42535DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFCEB8A-C03C-4A31-BA2F-C78FF42535DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CFFF8BF-311D-40D7-BD50-DEA340AA6ACE}
+	EndGlobalSection
+EndGlobal

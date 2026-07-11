@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 36 Automatic Property\pgm 36 Automatic Property\bin\Debug\pgm 36 Automatic Property.exe.config
+D:\Luminar\july\C#\pgm 36 Automatic Property\pgm 36 Automatic Property\bin\Debug\pgm 36 Automatic Property.exe
+D:\Luminar\july\C#\pgm 36 Automatic Property\pgm 36 Automatic Property\bin\Debug\pgm 36 Automatic Property.pdb
+D:\Luminar\july\C#\pgm 36 Automatic Property\pgm 36 Automatic Property\obj\Debug\pgm 36 Automatic Property.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 36 Automatic Property\pgm 36 Automatic Property\obj\Debug\pgm 36 Automatic Property.exe
+D:\Luminar\july\C#\pgm 36 Automatic Property\pgm 36 Automatic Property\obj\Debug\pgm 36 Automatic Property.pdb

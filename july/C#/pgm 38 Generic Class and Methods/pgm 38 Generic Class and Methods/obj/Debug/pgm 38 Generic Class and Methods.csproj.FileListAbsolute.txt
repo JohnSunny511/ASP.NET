@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 38 Generic Class and Methods\pgm 38 Generic Class and Methods\bin\Debug\pgm 38 Generic Class and Methods.exe.config
+D:\Luminar\july\C#\pgm 38 Generic Class and Methods\pgm 38 Generic Class and Methods\bin\Debug\pgm 38 Generic Class and Methods.exe
+D:\Luminar\july\C#\pgm 38 Generic Class and Methods\pgm 38 Generic Class and Methods\bin\Debug\pgm 38 Generic Class and Methods.pdb
+D:\Luminar\july\C#\pgm 38 Generic Class and Methods\pgm 38 Generic Class and Methods\obj\Debug\pgm 38 Generic Class and Methods.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 38 Generic Class and Methods\pgm 38 Generic Class and Methods\obj\Debug\pgm 38 Generic Class and Methods.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 38 Generic Class and Methods\pgm 38 Generic Class and Methods\obj\Debug\pgm 38 Generic Class and Methods.exe
+D:\Luminar\july\C#\pgm 38 Generic Class and Methods\pgm 38 Generic Class and Methods\obj\Debug\pgm 38 Generic Class and Methods.pdb

@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 38 Generic II Inbuilt List Using\pgm 38 Generic II Inbuilt List Using\bin\Debug\pgm 38 Generic II Inbuilt List Using.exe.config
+D:\Luminar\july\C#\pgm 38 Generic II Inbuilt List Using\pgm 38 Generic II Inbuilt List Using\bin\Debug\pgm 38 Generic II Inbuilt List Using.exe
+D:\Luminar\july\C#\pgm 38 Generic II Inbuilt List Using\pgm 38 Generic II Inbuilt List Using\bin\Debug\pgm 38 Generic II Inbuilt List Using.pdb
+D:\Luminar\july\C#\pgm 38 Generic II Inbuilt List Using\pgm 38 Generic II Inbuilt List Using\obj\Debug\pgm 38 Generic II Inbuilt List Using.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 38 Generic II Inbuilt List Using\pgm 38 Generic II Inbuilt List Using\obj\Debug\pgm 38 Generic II Inbuilt List Using.exe
+D:\Luminar\july\C#\pgm 38 Generic II Inbuilt List Using\pgm 38 Generic II Inbuilt List Using\obj\Debug\pgm 38 Generic II Inbuilt List Using.pdb
