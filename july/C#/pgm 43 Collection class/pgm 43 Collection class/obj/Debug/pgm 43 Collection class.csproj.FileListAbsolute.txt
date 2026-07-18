@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 43 Collection class\pgm 43 Collection class\bin\Debug\pgm 43 Collection class.exe.config
+D:\Luminar\july\C#\pgm 43 Collection class\pgm 43 Collection class\bin\Debug\pgm 43 Collection class.exe
+D:\Luminar\july\C#\pgm 43 Collection class\pgm 43 Collection class\bin\Debug\pgm 43 Collection class.pdb
+D:\Luminar\july\C#\pgm 43 Collection class\pgm 43 Collection class\obj\Debug\pgm 43 Collection class.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 43 Collection class\pgm 43 Collection class\obj\Debug\pgm 43 Collection class.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 43 Collection class\pgm 43 Collection class\obj\Debug\pgm 43 Collection class.exe
+D:\Luminar\july\C#\pgm 43 Collection class\pgm 43 Collection class\obj\Debug\pgm 43 Collection class.pdb

@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 39 Delegate\pgm 39 Delegate\obj\Debug\pgm 39 Delegate.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 39 Delegate\pgm 39 Delegate\obj\Debug\pgm 39 Delegate.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 39 Delegate\pgm 39 Delegate\bin\Debug\pgm 39 Delegate.exe.config
+D:\Luminar\july\C#\pgm 39 Delegate\pgm 39 Delegate\bin\Debug\pgm 39 Delegate.exe
+D:\Luminar\july\C#\pgm 39 Delegate\pgm 39 Delegate\bin\Debug\pgm 39 Delegate.pdb
+D:\Luminar\july\C#\pgm 39 Delegate\pgm 39 Delegate\obj\Debug\pgm 39 Delegate.exe
+D:\Luminar\july\C#\pgm 39 Delegate\pgm 39 Delegate\obj\Debug\pgm 39 Delegate.pdb

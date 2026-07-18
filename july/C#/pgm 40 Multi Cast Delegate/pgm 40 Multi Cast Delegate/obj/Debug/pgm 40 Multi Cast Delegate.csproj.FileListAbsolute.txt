@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 40 Multi Cast Delegate\pgm 40 Multi Cast Delegate\bin\Debug\pgm 40 Multi Cast Delegate.exe.config
+D:\Luminar\july\C#\pgm 40 Multi Cast Delegate\pgm 40 Multi Cast Delegate\bin\Debug\pgm 40 Multi Cast Delegate.exe
+D:\Luminar\july\C#\pgm 40 Multi Cast Delegate\pgm 40 Multi Cast Delegate\bin\Debug\pgm 40 Multi Cast Delegate.pdb
+D:\Luminar\july\C#\pgm 40 Multi Cast Delegate\pgm 40 Multi Cast Delegate\obj\Debug\pgm 40 Multi Cast Delegate.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 40 Multi Cast Delegate\pgm 40 Multi Cast Delegate\obj\Debug\pgm 40 Multi Cast Delegate.exe
+D:\Luminar\july\C#\pgm 40 Multi Cast Delegate\pgm 40 Multi Cast Delegate\obj\Debug\pgm 40 Multi Cast Delegate.pdb
