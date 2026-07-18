@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 53 Threading\pgm 53 Threading\bin\Debug\pgm 53 Threading.exe.config
+D:\Luminar\july\C#\pgm 53 Threading\pgm 53 Threading\bin\Debug\pgm 53 Threading.exe
+D:\Luminar\july\C#\pgm 53 Threading\pgm 53 Threading\bin\Debug\pgm 53 Threading.pdb
+D:\Luminar\july\C#\pgm 53 Threading\pgm 53 Threading\obj\Debug\pgm 53 Threading.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 53 Threading\pgm 53 Threading\obj\Debug\pgm 53 Threading.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 53 Threading\pgm 53 Threading\obj\Debug\pgm 53 Threading.exe
+D:\Luminar\july\C#\pgm 53 Threading\pgm 53 Threading\obj\Debug\pgm 53 Threading.pdb
