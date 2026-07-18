@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 47 Largeset and Smallest using static class\pgm 47 Largeset and Smallest using static class\bin\Debug\pgm 47 Largeset and Smallest using static class.exe.config
+D:\Luminar\july\C#\pgm 47 Largeset and Smallest using static class\pgm 47 Largeset and Smallest using static class\bin\Debug\pgm 47 Largeset and Smallest using static class.exe
+D:\Luminar\july\C#\pgm 47 Largeset and Smallest using static class\pgm 47 Largeset and Smallest using static class\bin\Debug\pgm 47 Largeset and Smallest using static class.pdb
+D:\Luminar\july\C#\pgm 47 Largeset and Smallest using static class\pgm 47 Largeset and Smallest using static class\obj\Debug\pgm 47 Largeset and Smallest using static class.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 47 Largeset and Smallest using static class\pgm 47 Largeset and Smallest using static class\obj\Debug\pgm 47 Largeset and Smallest using static class.exe
+D:\Luminar\july\C#\pgm 47 Largeset and Smallest using static class\pgm 47 Largeset and Smallest using static class\obj\Debug\pgm 47 Largeset and Smallest using static class.pdb

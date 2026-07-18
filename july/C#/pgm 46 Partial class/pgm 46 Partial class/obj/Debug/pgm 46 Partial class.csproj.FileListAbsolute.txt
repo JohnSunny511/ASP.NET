@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 46 Partial class\pgm 46 Partial class\bin\Debug\pgm 46 Partial class.exe.config
+D:\Luminar\july\C#\pgm 46 Partial class\pgm 46 Partial class\bin\Debug\pgm 46 Partial class.exe
+D:\Luminar\july\C#\pgm 46 Partial class\pgm 46 Partial class\bin\Debug\pgm 46 Partial class.pdb
+D:\Luminar\july\C#\pgm 46 Partial class\pgm 46 Partial class\obj\Debug\pgm 46 Partial class.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 46 Partial class\pgm 46 Partial class\obj\Debug\pgm 46 Partial class.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 46 Partial class\pgm 46 Partial class\obj\Debug\pgm 46 Partial class.exe
+D:\Luminar\july\C#\pgm 46 Partial class\pgm 46 Partial class\obj\Debug\pgm 46 Partial class.pdb
