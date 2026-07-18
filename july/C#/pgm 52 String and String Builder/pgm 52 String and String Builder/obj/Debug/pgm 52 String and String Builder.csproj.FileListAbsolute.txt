@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 52 String and String Builder\pgm 52 String and String Builder\bin\Debug\pgm 52 String and String Builder.exe.config
+D:\Luminar\july\C#\pgm 52 String and String Builder\pgm 52 String and String Builder\bin\Debug\pgm 52 String and String Builder.exe
+D:\Luminar\july\C#\pgm 52 String and String Builder\pgm 52 String and String Builder\bin\Debug\pgm 52 String and String Builder.pdb
+D:\Luminar\july\C#\pgm 52 String and String Builder\pgm 52 String and String Builder\obj\Debug\pgm 52 String and String Builder.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 52 String and String Builder\pgm 52 String and String Builder\obj\Debug\pgm 52 String and String Builder.exe
+D:\Luminar\july\C#\pgm 52 String and String Builder\pgm 52 String and String Builder\obj\Debug\pgm 52 String and String Builder.pdb

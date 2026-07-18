@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 50 throw\pgm 50 throw\bin\Debug\pgm 50 throw.exe.config
+D:\Luminar\july\C#\pgm 50 throw\pgm 50 throw\bin\Debug\pgm 50 throw.exe
+D:\Luminar\july\C#\pgm 50 throw\pgm 50 throw\bin\Debug\pgm 50 throw.pdb
+D:\Luminar\july\C#\pgm 50 throw\pgm 50 throw\obj\Debug\pgm 50 throw.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 50 throw\pgm 50 throw\obj\Debug\pgm 50 throw.exe
+D:\Luminar\july\C#\pgm 50 throw\pgm 50 throw\obj\Debug\pgm 50 throw.pdb

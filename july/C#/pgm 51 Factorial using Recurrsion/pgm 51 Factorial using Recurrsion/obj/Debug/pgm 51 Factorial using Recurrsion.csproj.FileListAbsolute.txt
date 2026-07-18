@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 51 Factorial using Recurrsion\pgm 51 Factorial using Recurrsion\obj\Debug\pgm 51 Factorial using Recurrsion.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 51 Factorial using Recurrsion\pgm 51 Factorial using Recurrsion\obj\Debug\pgm 51 Factorial using Recurrsion.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 51 Factorial using Recurrsion\pgm 51 Factorial using Recurrsion\bin\Debug\pgm 51 Factorial using Recurrsion.exe.config
+D:\Luminar\july\C#\pgm 51 Factorial using Recurrsion\pgm 51 Factorial using Recurrsion\bin\Debug\pgm 51 Factorial using Recurrsion.exe
+D:\Luminar\july\C#\pgm 51 Factorial using Recurrsion\pgm 51 Factorial using Recurrsion\bin\Debug\pgm 51 Factorial using Recurrsion.pdb
+D:\Luminar\july\C#\pgm 51 Factorial using Recurrsion\pgm 51 Factorial using Recurrsion\obj\Debug\pgm 51 Factorial using Recurrsion.exe
+D:\Luminar\july\C#\pgm 51 Factorial using Recurrsion\pgm 51 Factorial using Recurrsion\obj\Debug\pgm 51 Factorial using Recurrsion.pdb

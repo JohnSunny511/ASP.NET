@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37327.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgm 51 Factorial using Recurrsion", "pgm 51 Factorial using Recurrsion\pgm 51 Factorial using Recurrsion.csproj", "{CF56BF2C-1B88-4DA1-9630-84EF8EFEA6F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF56BF2C-1B88-4DA1-9630-84EF8EFEA6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF56BF2C-1B88-4DA1-9630-84EF8EFEA6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF56BF2C-1B88-4DA1-9630-84EF8EFEA6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF56BF2C-1B88-4DA1-9630-84EF8EFEA6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97649750-E9E1-45A6-BF45-9AFB62745BE3}
+	EndGlobalSection
+EndGlobal

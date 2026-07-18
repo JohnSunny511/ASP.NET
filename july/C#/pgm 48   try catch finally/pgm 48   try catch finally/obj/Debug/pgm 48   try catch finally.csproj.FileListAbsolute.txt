@@ -1,0 +1,7 @@
+D:\Luminar\july\C#\pgm 48   try catch finally\pgm 48   try catch finally\bin\Debug\pgm 48   try catch finally.exe.config
+D:\Luminar\july\C#\pgm 48   try catch finally\pgm 48   try catch finally\bin\Debug\pgm 48   try catch finally.exe
+D:\Luminar\july\C#\pgm 48   try catch finally\pgm 48   try catch finally\bin\Debug\pgm 48   try catch finally.pdb
+D:\Luminar\july\C#\pgm 48   try catch finally\pgm 48   try catch finally\obj\Debug\pgm 48   try catch finally.csproj.AssemblyReference.cache
+D:\Luminar\july\C#\pgm 48   try catch finally\pgm 48   try catch finally\obj\Debug\pgm 48   try catch finally.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 48   try catch finally\pgm 48   try catch finally\obj\Debug\pgm 48   try catch finally.exe
+D:\Luminar\july\C#\pgm 48   try catch finally\pgm 48   try catch finally\obj\Debug\pgm 48   try catch finally.pdb

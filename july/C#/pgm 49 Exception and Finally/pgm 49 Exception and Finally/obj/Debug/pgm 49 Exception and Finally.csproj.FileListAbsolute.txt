@@ -1,0 +1,6 @@
+D:\Luminar\july\C#\pgm 49 Exception and Finally\pgm 49 Exception and Finally\bin\Debug\pgm 49 Exception and Finally.exe.config
+D:\Luminar\july\C#\pgm 49 Exception and Finally\pgm 49 Exception and Finally\bin\Debug\pgm 49 Exception and Finally.exe
+D:\Luminar\july\C#\pgm 49 Exception and Finally\pgm 49 Exception and Finally\bin\Debug\pgm 49 Exception and Finally.pdb
+D:\Luminar\july\C#\pgm 49 Exception and Finally\pgm 49 Exception and Finally\obj\Debug\pgm 49 Exception and Finally.csproj.CoreCompileInputs.cache
+D:\Luminar\july\C#\pgm 49 Exception and Finally\pgm 49 Exception and Finally\obj\Debug\pgm 49 Exception and Finally.exe
+D:\Luminar\july\C#\pgm 49 Exception and Finally\pgm 49 Exception and Finally\obj\Debug\pgm 49 Exception and Finally.pdb

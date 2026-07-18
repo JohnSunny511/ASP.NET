@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37327.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgm 52 String and String Builder", "pgm 52 String and String Builder\pgm 52 String and String Builder.csproj", "{DE46CD23-5801-4CD0-9C92-D9DBD40C77E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE46CD23-5801-4CD0-9C92-D9DBD40C77E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE46CD23-5801-4CD0-9C92-D9DBD40C77E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE46CD23-5801-4CD0-9C92-D9DBD40C77E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE46CD23-5801-4CD0-9C92-D9DBD40C77E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7C53098-6505-436C-AE64-AB9C12CD484C}
+	EndGlobalSection
+EndGlobal
