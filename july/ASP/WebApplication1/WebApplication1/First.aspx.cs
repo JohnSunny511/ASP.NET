@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace WebApplication1
 {
-    public partial class WebForm7 : System.Web.UI.Page
+    public partial class First : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -16,6 +16,9 @@ namespace WebApplication1
 
         protected void Button1_Click(object sender, EventArgs e)
         {
+            Application["una"] = TextBox1.Text;
+            Session["pw"] = TextBox2.Text;
+            Response.Redirect("WebForm9.aspx");
 
         }
     }
