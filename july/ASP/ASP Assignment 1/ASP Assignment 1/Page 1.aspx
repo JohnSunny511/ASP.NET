@@ -113,7 +113,7 @@
                     <asp:TextBox ID="TextBox3" runat="server" TextMode="MultiLine"></asp:TextBox>
                 </td>
                 <td>
-                    <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ControlToValidate="TextBox3" ErrorMessage="Enter Address"></asp:RequiredFieldValidator>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ControlToValidate="TextBox3" ErrorMessage="Enter Address" Display="Dynamic"></asp:RequiredFieldValidator>
                 </td>
                 <td>&nbsp;</td>
                 <td class="auto-style10">&nbsp;</td>
@@ -122,14 +122,14 @@
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td>&nbsp;</td>
-                <td class="auto-style4">&nbsp;</td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-                <td class="auto-style10">&nbsp;</td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
+                <td class="auto-style2"></td>
+                <td class="auto-style5"></td>
+                <td class="auto-style2"></td>
+                <td class="auto-style2"></td>
+                <td class="auto-style11"></td>
+                <td class="auto-style2"></td>
+                <td class="auto-style2"></td>
+                <td class="auto-style2"></td>
             </tr>
             <tr>
                 <td class="auto-style2">
@@ -139,7 +139,7 @@
                     <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox>
                 </td>
                 <td class="auto-style2">
-                    <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="TextBox4" ErrorMessage="Enter Valid Phone Number" ValidationExpression="^[6-9]\d{9}$   "></asp:RegularExpressionValidator>
+                    <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="TextBox4" ErrorMessage="Enter Valid Phone Number" ValidationExpression="^[6-9]\d{9}$"></asp:RegularExpressionValidator>
                 </td>
                 <td class="auto-style2"></td>
                 <td class="auto-style11"></td>
