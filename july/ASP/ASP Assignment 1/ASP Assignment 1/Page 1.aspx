@@ -393,8 +393,12 @@
             <tr>
                 <td class="auto-style3"></td>
                 <td class="auto-style6"></td>
-                <td class="auto-style3"></td>
-                <td class="auto-style3"></td>
+                <td class="auto-style3">
+                    <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Register" />
+                </td>
+                <td class="auto-style3">
+                    <asp:Label ID="Label35" runat="server" Text="Label"></asp:Label>
+                </td>
                 <td class="auto-style12"></td>
                 <td class="auto-style3"></td>
                 <td class="auto-style3"></td>
