@@ -68,7 +68,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ChangePassword.aspx" />
+    <Content Include="DropDown2.aspx" />
     <Content Include="DropdownListBinding.aspx" />
+    <Content Include="Grid2.aspx" />
+    <Content Include="GridVie.aspx" />
+    <Content Include="Gridviewss.aspx" />
     <Content Include="login.aspx" />
     <Content Include="Page 1.aspx" />
     <Content Include="Profile Editing.aspx" />
@@ -83,12 +87,40 @@
     <Compile Include="ChangePassword.aspx.designer.cs">
       <DependentUpon>ChangePassword.aspx</DependentUpon>
     </Compile>
+    <Compile Include="DropDown2.aspx.cs">
+      <DependentUpon>DropDown2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DropDown2.aspx.designer.cs">
+      <DependentUpon>DropDown2.aspx</DependentUpon>
+    </Compile>
     <Compile Include="DropdownListBinding.aspx.cs">
       <DependentUpon>DropdownListBinding.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="DropdownListBinding.aspx.designer.cs">
       <DependentUpon>DropdownListBinding.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Grid2.aspx.cs">
+      <DependentUpon>Grid2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Grid2.aspx.designer.cs">
+      <DependentUpon>Grid2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GridVie.aspx.cs">
+      <DependentUpon>GridVie.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GridVie.aspx.designer.cs">
+      <DependentUpon>GridVie.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Gridviewss.aspx.cs">
+      <DependentUpon>Gridviewss.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Gridviewss.aspx.designer.cs">
+      <DependentUpon>Gridviewss.aspx</DependentUpon>
     </Compile>
     <Compile Include="login.aspx.cs">
       <DependentUpon>login.aspx</DependentUpon>
