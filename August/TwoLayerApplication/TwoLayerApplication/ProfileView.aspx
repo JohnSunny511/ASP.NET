@@ -84,6 +84,106 @@
                     <td>&nbsp;</td>
                 </tr>
                 <tr>
+                    <td class="auto-style2">
+                        &nbsp;</td>
+                    <td>
+                        &nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">
+                        &nbsp;</td>
+                    <td>
+                        &nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">
+                        &nbsp;</td>
+                    <td>
+                        <asp:GridView ID="GridView1" runat="server">
+                        </asp:GridView>
+                    </td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">
+                        &nbsp;</td>
+                    <td>
+                        &nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">
+                        &nbsp;</td>
+                    <td>
+                        <asp:DataList ID="DataList1" runat="server">
+                            <ItemTemplate>
+                                <table class="auto-style1">
+                                    <tr>
+                                        <td>
+                                            <asp:Label ID="Label8" runat="server" Text="Name"></asp:Label>
+                                        </td>
+                                        <td>
+                                            <asp:Label ID="Label12" runat="server" Text='<%# Eval("Name") %>'></asp:Label>
+                                        </td>
+                                        <td>&nbsp;</td>
+                                        <td>&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <asp:Label ID="Label9" runat="server" Text="Age"></asp:Label>
+                                        </td>
+                                        <td>
+                                            <asp:Label ID="Label13" runat="server" Text='<%# Eval("Age") %>'></asp:Label>
+                                        </td>
+                                        <td>&nbsp;</td>
+                                        <td>&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <asp:Label ID="Label10" runat="server" Text="Address"></asp:Label>
+                                        </td>
+                                        <td>
+                                            <asp:Label ID="Label14" runat="server" Text='<%# Eval("Address") %>'></asp:Label>
+                                        </td>
+                                        <td>&nbsp;</td>
+                                        <td>&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <asp:Label ID="Label11" runat="server" Text="Photo"></asp:Label>
+                                        </td>
+                                        <td>
+                                            <asp:Image ID="Image2" runat="server" ImageUrl='<%# Eval("Photo") %>' />
+                                        </td>
+                                        <td>&nbsp;</td>
+                                        <td>&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>&nbsp;</td>
+                                        <td>&nbsp;</td>
+                                        <td>&nbsp;</td>
+                                        <td>&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>&nbsp;</td>
+                                        <td>&nbsp;</td>
+                                        <td>&nbsp;</td>
+                                        <td>&nbsp;</td>
+                                    </tr>
+                                </table>
+                            </ItemTemplate>
+                        </asp:DataList>
+                    </td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
                     <td class="auto-style2">&nbsp;</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>

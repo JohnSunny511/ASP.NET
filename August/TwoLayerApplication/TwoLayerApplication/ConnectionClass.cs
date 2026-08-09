@@ -57,7 +57,19 @@ namespace TwoLayerApplication
             return dr;
         }
 
-        public DataTable fn_Adapter_DataSet(string sqlquery)
+        public DataSet fn_Adapter_DataSet(string sqlquery)
+        {
+            if (con.State == ConnectionState.Open)
+            {
+                con.Close();
+            }
+            SqlDataAdapter da = new SqlDataAdapter(sqlquery, con);
+            DataSet ds = new DataSet();
+            da.Fill(ds);
+            return ds;
+        }
+
+        public DataTable fn_Adapter_DataTable(string sqlquery)
         {
             if (con.State == ConnectionState.Open)
             {
