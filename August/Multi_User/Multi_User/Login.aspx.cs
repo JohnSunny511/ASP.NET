@@ -43,6 +43,11 @@ namespace Multi_User
                 }
 
             }
+            else
+            {
+                Label3.Text = "Invalid username or password";
+
+            }
 
         }
     }
