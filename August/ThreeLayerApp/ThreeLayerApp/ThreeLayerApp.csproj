@@ -68,6 +68,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="insertDB.aspx" />
+    <Content Include="login.aspx" />
+    <Content Include="ProfileView.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -77,6 +79,20 @@
     </Compile>
     <Compile Include="insertDB.aspx.designer.cs">
       <DependentUpon>insertDB.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileView.aspx.cs">
+      <DependentUpon>ProfileView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProfileView.aspx.designer.cs">
+      <DependentUpon>ProfileView.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
