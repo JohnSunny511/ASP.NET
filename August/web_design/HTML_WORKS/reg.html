@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <center>
+                <h1>Registration Form</h1>
+            </center>
+            <table align="center">
+                <tr>
+                    <td><label>Name:</label></td>
+                    <td><input type="text" id="t1" name="txtna" placeholder="Enter the name" required /></td>
+                </tr>
+                <tr>
+                    <td><label>Password:</label></td>
+                    <td><input type="password" id="t1" name="txtnaq" placeholder="Enter Password" /></td>
+
+                </tr>
+                <tr>
+                    <td><label>Age:</label></td>
+                    <td><input type="number" max="50" min="20" /></td>
+
+                </tr>
+                <tr>
+                    <td><label>Address:</label></td>
+                    <td><textarea></textarea></td>
+                </tr>
+                <tr>
+                    <td><label>Phone:</label></td>
+                    <td><input type="tel" pattern="^/[6789]\d{9}$" </td>
+                </tr>
+                <tr>
+                    <td><label>Email:</label></td>
+                    <td><input type="email" </td>
+                </tr>
+                <tr>
+                    <td><label>Photo:</label></td>
+                    <td><input type="file" </td>
+                </tr>
+                <tr>
+                    <td><label>Date:</label></td>
+                    <td><input type="date" </td>
+                </tr>
+                <tr>
+                    <td><label>Gender:</label></td>
+                    <td><input type="radio" name="rb1" value="Male"/>Male<br>
+                    <input type="radio" name="rb1" value="Female"/>Female</td>
+                </tr>
+                <tr>
+                    <td><label>Qualification:</label></td>
+                    <td>
+                    <input type="checkbox" name="cb1" value="SSLC" /> SSLC <br>
+                    <input type="checkbox" name="cb2" value="+2" /> +2 <br>
+                    <input type="checkbox" name="cb3" value="B.Tech" /> B.Tech <br>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Districts</label></td>
+                    <td>
+                        <select name="dist">
+                            <option selected="selected" disabled="disabled">Select</option>
+                            <option value="ekm">Ernakulam</option>
+                            <option value="ktym">Kottayam</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <input id="submit1" type="submit" value="Register" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+
+</html>
