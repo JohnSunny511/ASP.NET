@@ -27,3 +27,12 @@
     height: 180px;
     object-fit: cover;
 }
+
+/* 4. Navbar Hover Dropdown for Desktop */
+@media (min-width: 992px) {
+    .navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+        display: block;
+        margin-top: 0;
+    }
+}
+

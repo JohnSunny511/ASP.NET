@@ -20,18 +20,31 @@ document.addEventListener("DOMContentLoaded", function () {
     if (loginForm) {
         loginForm.addEventListener("submit", function (event) {
             event.preventDefault(); // Prevents browser page reload
-            const email = document.getElementById("loginEmail").value;
-            alert("Logged in successfully as " + email + "! (Visual placeholder)");
+            const usernameInput = document.getElementById("loginUsername") || document.getElementById("loginEmail");
+            const username = usernameInput ? usernameInput.value : "User";
+            alert("Logged in successfully as " + username + "! (Visual placeholder)");
         });
     }
 
-    // 3. Handle Register Form Submission (register.html)
-    const registerForm = document.getElementById("registerForm");
-    if (registerForm) {
-        registerForm.addEventListener("submit", function (event) {
+    // 3. Handle User Register Form Submission (user-register.html)
+    const userRegisterForm = document.getElementById("userRegisterForm") || document.getElementById("registerForm");
+    if (userRegisterForm) {
+        userRegisterForm.addEventListener("submit", function (event) {
             event.preventDefault(); // Prevents browser page reload
-            const name = document.getElementById("registerName").value;
-            alert("Account registered successfully for " + name + "! (Visual placeholder)");
+            const nameInput = document.getElementById("userFullName") || document.getElementById("registerName");
+            const name = nameInput ? nameInput.value : "User";
+            alert("User account created successfully for " + name + "! (Visual placeholder)");
+        });
+    }
+
+    // 4. Handle Admin Register Form Submission (admin-register.html)
+    const adminRegisterForm = document.getElementById("adminRegisterForm");
+    if (adminRegisterForm) {
+        adminRegisterForm.addEventListener("submit", function (event) {
+            event.preventDefault(); // Prevents browser page reload
+            const nameInput = document.getElementById("adminFullName");
+            const name = nameInput ? nameInput.value : "Admin";
+            alert("Admin account created successfully for " + name + "! (Visual placeholder)");
         });
     }
 });

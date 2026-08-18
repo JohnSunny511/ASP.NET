@@ -67,9 +67,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="admin-register.aspx" />
     <Content Include="cart.html" />
-    <Content Include="index.html" />
-    <Content Include="login.html" />
+    <Content Include="index.aspx" />
+    <Content Include="login.aspx" />
     <Content Include="photos\action.jpg" />
     <Content Include="photos\digital.jpg" />
     <Content Include="photos\dslr.jpg" />
@@ -78,9 +79,9 @@
     <Content Include="photos\hero3.jpg" />
     <Content Include="photos\mirrorless.jpg" />
     <Content Include="products.html" />
-    <Content Include="register.html" />
     <Content Include="script.js" />
     <Content Include="style.css" />
+    <Content Include="user-register.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
