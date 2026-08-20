@@ -67,14 +67,46 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Asp assigment 1.2.png" />
+    <Content Include="bootstrap-button.aspx" />
+    <Content Include="bootstrap-images.aspx" />
+    <Content Include="Bootstrap-table.aspx" />
     <Content Include="externalcss.aspx" />
+    <Content Include="Screenshot 2026-02-19 200824.png" />
+    <Content Include="Screenshot 2026-02-28 113731.png" />
+    <Content Include="Screenshot 2026-02-28 120443.png" />
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
     <Content Include="WebForm2.aspx" />
+    <Content Include="WebForm3-bootsrap-colors.aspx" />
+    <Content Include="WebForm3-bootstrap_gridaspx.aspx" />
+    <Content Include="WebForm3-border.aspx" />
+    <Content Include="WebForm3-Image.aspx" />
     <Content Include="WebForm3-margin.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="bootstrap-button.aspx.cs">
+      <DependentUpon>bootstrap-button.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="bootstrap-button.aspx.designer.cs">
+      <DependentUpon>bootstrap-button.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bootstrap-images.aspx.cs">
+      <DependentUpon>bootstrap-images.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="bootstrap-images.aspx.designer.cs">
+      <DependentUpon>bootstrap-images.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Bootstrap-table.aspx.cs">
+      <DependentUpon>Bootstrap-table.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Bootstrap-table.aspx.designer.cs">
+      <DependentUpon>Bootstrap-table.aspx</DependentUpon>
+    </Compile>
     <Compile Include="externalcss.aspx.cs">
       <DependentUpon>externalcss.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -96,6 +128,34 @@
     </Compile>
     <Compile Include="WebForm2.aspx.designer.cs">
       <DependentUpon>WebForm2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm3-bootsrap-colors.aspx.cs">
+      <DependentUpon>WebForm3-bootsrap-colors.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm3-bootsrap-colors.aspx.designer.cs">
+      <DependentUpon>WebForm3-bootsrap-colors.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm3-bootstrap_gridaspx.aspx.cs">
+      <DependentUpon>WebForm3-bootstrap_gridaspx.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm3-bootstrap_gridaspx.aspx.designer.cs">
+      <DependentUpon>WebForm3-bootstrap_gridaspx.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm3-border.aspx.cs">
+      <DependentUpon>WebForm3-border.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm3-border.aspx.designer.cs">
+      <DependentUpon>WebForm3-border.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm3-Image.aspx.cs">
+      <DependentUpon>WebForm3-Image.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm3-Image.aspx.designer.cs">
+      <DependentUpon>WebForm3-Image.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForm3-margin.aspx.cs">
       <DependentUpon>WebForm3-margin.aspx</DependentUpon>

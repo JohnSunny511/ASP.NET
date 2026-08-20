@@ -71,6 +71,7 @@
     <Content Include="cart.html" />
     <Content Include="index.aspx" />
     <Content Include="login.aspx" />
+    <Content Include="login1.aspx" />
     <Content Include="photos\action.jpg" />
     <Content Include="photos\digital.jpg" />
     <Content Include="photos\dslr.jpg" />
@@ -86,6 +87,13 @@
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="login1.aspx.cs">
+      <DependentUpon>login1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="login1.aspx.designer.cs">
+      <DependentUpon>login1.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site1.Master.cs">
       <DependentUpon>Site1.Master</DependentUpon>
