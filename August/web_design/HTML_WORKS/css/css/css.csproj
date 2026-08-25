@@ -71,6 +71,7 @@
     <Content Include="bootstrap-button.aspx" />
     <Content Include="bootstrap-images.aspx" />
     <Content Include="Bootstrap-table.aspx" />
+    <Content Include="BS-Cards.aspx" />
     <Content Include="externalcss.aspx" />
     <Content Include="Screenshot 2026-02-19 200824.png" />
     <Content Include="Screenshot 2026-02-28 113731.png" />
@@ -106,6 +107,13 @@
     </Compile>
     <Compile Include="Bootstrap-table.aspx.designer.cs">
       <DependentUpon>Bootstrap-table.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BS-Cards.aspx.cs">
+      <DependentUpon>BS-Cards.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BS-Cards.aspx.designer.cs">
+      <DependentUpon>BS-Cards.aspx</DependentUpon>
     </Compile>
     <Compile Include="externalcss.aspx.cs">
       <DependentUpon>externalcss.aspx</DependentUpon>

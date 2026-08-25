@@ -14,7 +14,11 @@ namespace ASP_Assignment_1
         SqlConnection con = new SqlConnection(@"server=LAPTOP-QK9QR22V\SQLEXPRESS;database=db2;Integrated security = true");
         protected void Page_Load(object sender, EventArgs e)
         {
-            bind_Grid();
+            if (!IsPostBack)
+            {
+                bind_Grid();
+            }
+            
 
         }
 
@@ -69,7 +73,7 @@ namespace ASP_Assignment_1
             int getid = Convert.ToInt32(GridView1.DataKeys[i].Value);
             TextBox txtage = (TextBox)GridView1.Rows[i].Cells[5].Controls[0];
             TextBox txtaddr = (TextBox)GridView1.Rows[i].Cells[6].Controls[0];
-            string strup = "update tb2 set Age = " + txtage.Text + ",Address ='" + txtaddr.Text + "' where " + getid;
+            string strup = "update tb2 set Age = " + txtage.Text + ",Address ='" + txtaddr.Text + "' where id=" + getid;
             SqlCommand cmd = new SqlCommand(strup, con);
             con.Open();
             cmd.ExecuteNonQuery();
