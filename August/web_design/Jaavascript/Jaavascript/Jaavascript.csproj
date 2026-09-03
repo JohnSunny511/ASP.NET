@@ -7,12 +7,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{507976A7-EC12-4920-9B54-714B2A2960C4}</ProjectGuid>
+    <ProjectGuid>{F401999D-0A5A-40FE-8E1B-D8DA3E9BB2C9}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>css</RootNamespace>
-    <AssemblyName>css</AssemblyName>
+    <RootNamespace>Jaavascript</RootNamespace>
+    <AssemblyName>Jaavascript</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
@@ -67,132 +67,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Accordian.html" />
-    <Content Include="action.jpg" />
-    <Content Include="Asp assigment 1.2.png" />
-    <Content Include="bootstrap-button.aspx" />
-    <Content Include="bootstrap-images.aspx" />
-    <Content Include="Bootstrap-table.aspx" />
-    <Content Include="BS-Cards.aspx" />
-    <Content Include="Carousel.aspx" />
-    <Content Include="Carousel.html" />
-    <Content Include="externalcss.aspx" />
-    <Content Include="hero1.jpg" />
-    <Content Include="hero3.jpg" />
-    <Content Include="NavBar.aspx" />
-    <Content Include="Screenshot 2026-02-19 200824.png" />
-    <Content Include="Screenshot 2026-02-28 113731.png" />
-    <Content Include="Screenshot 2026-02-28 120443.png" />
-    <Content Include="StyleSheet1.css" />
+    <Content Include="js1.aspx" />
+    <Content Include="Js1.js" />
     <Content Include="Web.config" />
-    <Content Include="WebForm1.aspx" />
-    <Content Include="WebForm2.aspx" />
-    <Content Include="WebForm3-bootsrap-colors.aspx" />
-    <Content Include="WebForm3-bootstrap_gridaspx.aspx" />
-    <Content Include="WebForm3-border.aspx" />
-    <Content Include="WebForm3-Image.aspx" />
-    <Content Include="WebForm3-margin.aspx" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="bootstrap-button.aspx.cs">
-      <DependentUpon>bootstrap-button.aspx</DependentUpon>
+    <Compile Include="js1.aspx.cs">
+      <DependentUpon>js1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="bootstrap-button.aspx.designer.cs">
-      <DependentUpon>bootstrap-button.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="bootstrap-images.aspx.cs">
-      <DependentUpon>bootstrap-images.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="bootstrap-images.aspx.designer.cs">
-      <DependentUpon>bootstrap-images.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Bootstrap-table.aspx.cs">
-      <DependentUpon>Bootstrap-table.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Bootstrap-table.aspx.designer.cs">
-      <DependentUpon>Bootstrap-table.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="BS-Cards.aspx.cs">
-      <DependentUpon>BS-Cards.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="BS-Cards.aspx.designer.cs">
-      <DependentUpon>BS-Cards.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Carousel.aspx.cs">
-      <DependentUpon>Carousel.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Carousel.aspx.designer.cs">
-      <DependentUpon>Carousel.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="externalcss.aspx.cs">
-      <DependentUpon>externalcss.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="externalcss.aspx.designer.cs">
-      <DependentUpon>externalcss.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="NavBar.aspx.cs">
-      <DependentUpon>NavBar.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="NavBar.aspx.designer.cs">
-      <DependentUpon>NavBar.aspx</DependentUpon>
+    <Compile Include="js1.aspx.designer.cs">
+      <DependentUpon>js1.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WebForm1.aspx.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="WebForm1.aspx.designer.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="WebForm2.aspx.cs">
-      <DependentUpon>WebForm2.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="WebForm2.aspx.designer.cs">
-      <DependentUpon>WebForm2.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="WebForm3-bootsrap-colors.aspx.cs">
-      <DependentUpon>WebForm3-bootsrap-colors.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="WebForm3-bootsrap-colors.aspx.designer.cs">
-      <DependentUpon>WebForm3-bootsrap-colors.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="WebForm3-bootstrap_gridaspx.aspx.cs">
-      <DependentUpon>WebForm3-bootstrap_gridaspx.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="WebForm3-bootstrap_gridaspx.aspx.designer.cs">
-      <DependentUpon>WebForm3-bootstrap_gridaspx.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="WebForm3-border.aspx.cs">
-      <DependentUpon>WebForm3-border.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="WebForm3-border.aspx.designer.cs">
-      <DependentUpon>WebForm3-border.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="WebForm3-Image.aspx.cs">
-      <DependentUpon>WebForm3-Image.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="WebForm3-Image.aspx.designer.cs">
-      <DependentUpon>WebForm3-Image.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="WebForm3-margin.aspx.cs">
-      <DependentUpon>WebForm3-margin.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="WebForm3-margin.aspx.designer.cs">
-      <DependentUpon>WebForm3-margin.aspx</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -216,9 +103,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>56614</DevelopmentServerPort>
+          <DevelopmentServerPort>57039</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:56614/</IISUrl>
+          <IISUrl>http://localhost:57039/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
