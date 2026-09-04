@@ -67,18 +67,51 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AbstractionJs.aspx" />
+    <Content Include="button.aspx" />
+    <Content Include="Class_Tutorial.aspx" />
     <Content Include="FunctionObject.aspx" />
+    <Content Include="Inheritance_js.aspx" />
     <Content Include="js1.aspx" />
     <Content Include="lambdaFunction.aspx" />
+    <Content Include="Overriding.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractionJs.aspx.cs">
+      <DependentUpon>AbstractionJs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AbstractionJs.aspx.designer.cs">
+      <DependentUpon>AbstractionJs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="button.aspx.cs">
+      <DependentUpon>button.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="button.aspx.designer.cs">
+      <DependentUpon>button.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Class_Tutorial.aspx.cs">
+      <DependentUpon>Class_Tutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Class_Tutorial.aspx.designer.cs">
+      <DependentUpon>Class_Tutorial.aspx</DependentUpon>
+    </Compile>
     <Compile Include="FunctionObject.aspx.cs">
       <DependentUpon>FunctionObject.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="FunctionObject.aspx.designer.cs">
       <DependentUpon>FunctionObject.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Inheritance_js.aspx.cs">
+      <DependentUpon>Inheritance_js.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inheritance_js.aspx.designer.cs">
+      <DependentUpon>Inheritance_js.aspx</DependentUpon>
     </Compile>
     <Compile Include="js1.aspx.cs">
       <DependentUpon>js1.aspx</DependentUpon>
@@ -93,6 +126,13 @@
     </Compile>
     <Compile Include="lambdaFunction.aspx.designer.cs">
       <DependentUpon>lambdaFunction.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Overriding.aspx.cs">
+      <DependentUpon>Overriding.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Overriding.aspx.designer.cs">
+      <DependentUpon>Overriding.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
