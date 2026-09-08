@@ -72,9 +72,15 @@
     <Content Include="Class_Tutorial.aspx" />
     <Content Include="FunctionObject.aspx" />
     <Content Include="Inheritance_js.aspx" />
+    <Content Include="jQuery1.aspx" />
+    <Content Include="jQuery2.aspx" />
+    <Content Include="jQueryIdSelector.aspx" />
     <Content Include="js1.aspx" />
+    <Content Include="JsPhoneValidation.aspx" />
+    <Content Include="JsValidation.aspx" />
     <Content Include="lambdaFunction.aspx" />
     <Content Include="Overriding.aspx" />
+    <Content Include="PromptBox.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -113,12 +119,47 @@
     <Compile Include="Inheritance_js.aspx.designer.cs">
       <DependentUpon>Inheritance_js.aspx</DependentUpon>
     </Compile>
+    <Compile Include="jQuery1.aspx.cs">
+      <DependentUpon>jQuery1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jQuery1.aspx.designer.cs">
+      <DependentUpon>jQuery1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="jQuery2.aspx.cs">
+      <DependentUpon>jQuery2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jQuery2.aspx.designer.cs">
+      <DependentUpon>jQuery2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="jQueryIdSelector.aspx.cs">
+      <DependentUpon>jQueryIdSelector.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jQueryIdSelector.aspx.designer.cs">
+      <DependentUpon>jQueryIdSelector.aspx</DependentUpon>
+    </Compile>
     <Compile Include="js1.aspx.cs">
       <DependentUpon>js1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="js1.aspx.designer.cs">
       <DependentUpon>js1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JsPhoneValidation.aspx.cs">
+      <DependentUpon>JsPhoneValidation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JsPhoneValidation.aspx.designer.cs">
+      <DependentUpon>JsPhoneValidation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="JsValidation.aspx.cs">
+      <DependentUpon>JsValidation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="JsValidation.aspx.designer.cs">
+      <DependentUpon>JsValidation.aspx</DependentUpon>
     </Compile>
     <Compile Include="lambdaFunction.aspx.cs">
       <DependentUpon>lambdaFunction.aspx</DependentUpon>
@@ -133,6 +174,13 @@
     </Compile>
     <Compile Include="Overriding.aspx.designer.cs">
       <DependentUpon>Overriding.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PromptBox.aspx.cs">
+      <DependentUpon>PromptBox.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PromptBox.aspx.designer.cs">
+      <DependentUpon>PromptBox.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
