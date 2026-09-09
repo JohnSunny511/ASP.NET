@@ -14,32 +14,34 @@ namespace StoredProcedure
         conclss ob = new conclss();
         protected void Page_Load(object sender, EventArgs e)
         {
-            SqlCommand cmd = new SqlCommand();
-            cmd.CommandType = CommandType.StoredProcedure;
-            cmd.CommandText = "profile_view";
-
-            //input parameters
-            cmd.Parameters.AddWithValue("@id", Session["uid"]);
-            SqlDataReader dr = ob.fn_Reader(cmd);
-            while (dr.Read())
+            if (!IsPostBack)
             {
-                TextBox1.Text = dr["name"].ToString();
-                TextBox2.Text = dr["Age"].ToString();
-                TextBox3.Text = dr["address"].ToString();
-                TextBox4.Text = dr["username"].ToString();
+                SqlCommand cmd = new SqlCommand();
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.CommandText = "profile_view";
+
+                //input parameters
+                cmd.Parameters.AddWithValue("@id", Session["uid"]);
+                SqlDataReader dr = ob.fn_Reader(cmd);
+                while (dr.Read())
+                {
+                    TextBox1.Text = dr["name"].ToString();
+                    TextBox2.Text = dr["Age"].ToString();
+                    TextBox3.Text = dr["address"].ToString();
+                    TextBox4.Text = dr["username"].ToString();
+                }
+                //output parameters
+                SqlParameter sp = new SqlParameter();
+                sp.DbType = DbType.Int32;
+                sp.ParameterName = "";
             }
-            //output parameters
-            SqlParameter sp = new SqlParameter();
-            sp.DbType = DbType.Int32;
-            sp.ParameterName = "";
         }
 
         protected void Button1_Click(object sender, EventArgs e)
         {
             SqlCommand cmd = new SqlCommand();
-            cmd.CommandText = "profile_view";
-            SqlCommand cm1 = new SqlCommand();
-            cmd1.comma
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.CommandText = "updateAgeAddrr";
 
             //input parameters
             cmd.Parameters.AddWithValue("@id", Session["uid"]);
