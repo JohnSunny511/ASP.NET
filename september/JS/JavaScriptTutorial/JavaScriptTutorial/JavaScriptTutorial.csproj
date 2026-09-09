@@ -72,9 +72,16 @@
     <Content Include="Class_Tutorial.aspx" />
     <Content Include="FunctionObject.aspx" />
     <Content Include="Inheritance_js.aspx" />
+    <Content Include="jQHidingClass.aspx" />
+    <Content Include="jQHidingid.aspx" />
     <Content Include="jQuery1.aspx" />
+    <Content Include="jQuery10HideShow.aspx" />
+    <Content Include="jQuery11Animate.aspx" />
     <Content Include="jQuery2.aspx" />
+    <Content Include="jQuery8Click.aspx" />
+    <Content Include="jQuery9DbleClick.aspx" />
     <Content Include="jQueryIdSelector.aspx" />
+    <Content Include="jQuery_HidePara.aspx" />
     <Content Include="js1.aspx" />
     <Content Include="JsPhoneValidation.aspx" />
     <Content Include="JsValidation.aspx" />
@@ -119,12 +126,40 @@
     <Compile Include="Inheritance_js.aspx.designer.cs">
       <DependentUpon>Inheritance_js.aspx</DependentUpon>
     </Compile>
+    <Compile Include="jQHidingClass.aspx.cs">
+      <DependentUpon>jQHidingClass.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jQHidingClass.aspx.designer.cs">
+      <DependentUpon>jQHidingClass.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="jQHidingid.aspx.cs">
+      <DependentUpon>jQHidingid.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jQHidingid.aspx.designer.cs">
+      <DependentUpon>jQHidingid.aspx</DependentUpon>
+    </Compile>
     <Compile Include="jQuery1.aspx.cs">
       <DependentUpon>jQuery1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="jQuery1.aspx.designer.cs">
       <DependentUpon>jQuery1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="jQuery10HideShow.aspx.cs">
+      <DependentUpon>jQuery10HideShow.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jQuery10HideShow.aspx.designer.cs">
+      <DependentUpon>jQuery10HideShow.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="jQuery11Animate.aspx.cs">
+      <DependentUpon>jQuery11Animate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jQuery11Animate.aspx.designer.cs">
+      <DependentUpon>jQuery11Animate.aspx</DependentUpon>
     </Compile>
     <Compile Include="jQuery2.aspx.cs">
       <DependentUpon>jQuery2.aspx</DependentUpon>
@@ -133,12 +168,33 @@
     <Compile Include="jQuery2.aspx.designer.cs">
       <DependentUpon>jQuery2.aspx</DependentUpon>
     </Compile>
+    <Compile Include="jQuery8Click.aspx.cs">
+      <DependentUpon>jQuery8Click.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jQuery8Click.aspx.designer.cs">
+      <DependentUpon>jQuery8Click.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="jQuery9DbleClick.aspx.cs">
+      <DependentUpon>jQuery9DbleClick.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jQuery9DbleClick.aspx.designer.cs">
+      <DependentUpon>jQuery9DbleClick.aspx</DependentUpon>
+    </Compile>
     <Compile Include="jQueryIdSelector.aspx.cs">
       <DependentUpon>jQueryIdSelector.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="jQueryIdSelector.aspx.designer.cs">
       <DependentUpon>jQueryIdSelector.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="jQuery_HidePara.aspx.cs">
+      <DependentUpon>jQuery_HidePara.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jQuery_HidePara.aspx.designer.cs">
+      <DependentUpon>jQuery_HidePara.aspx</DependentUpon>
     </Compile>
     <Compile Include="js1.aspx.cs">
       <DependentUpon>js1.aspx</DependentUpon>
