@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="Login.aspx" />
     <Content Include="ProfileView.aspx" />
+    <Content Include="SelectAll.aspx" />
     <Content Include="SPcalling1aspx.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -89,6 +90,13 @@
       <DependentUpon>ProfileView.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SelectAll.aspx.cs">
+      <DependentUpon>SelectAll.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SelectAll.aspx.designer.cs">
+      <DependentUpon>SelectAll.aspx</DependentUpon>
+    </Compile>
     <Compile Include="SPcalling1aspx.aspx.cs">
       <DependentUpon>SPcalling1aspx.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
