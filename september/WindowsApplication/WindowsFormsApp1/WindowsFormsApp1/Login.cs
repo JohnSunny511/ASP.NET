@@ -10,31 +10,44 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Login : Form
+    public partial class login : Form
     {
-        public Login()
+        conclss ob = new conclss();
+        public login()
         {
             InitializeComponent();
         }
 
-        private void label7_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
-            string sel = "insert into profile values ('"+textBox1.Text+"','"+richTextBox1+"','"+
+            string s = "select count(id) from profile where username ='" + textBox1.Text + "'and password = '" + textBox2.Text + "'";
+            string i = ob.fn_ExeScalar(s);
+            if (i == "1")
+            {
+                label3.Text = "Logged In";
+                string s1 = "select id from profile where username = '" + textBox1.Text + "'and password = '" + textBox2.Text + "'";
+                string id = ob.fn_ExeScalar(s1);
+                A.p1 = Convert.ToInt32(id);
+                PView obj = new PView();
+                obj.Show();
+                this.Hide();
+                
+            }
+            else
+            {
+                label3.Text = "Invalid username and password";
+            }
+
+        }
+
+        public static class A
+        {
+            public static int p1
+            {
+                set;
+                get;
+            }
+
         }
     }
 }

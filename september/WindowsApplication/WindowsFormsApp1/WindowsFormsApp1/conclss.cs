@@ -10,8 +10,8 @@ namespace WindowsFormsApp1
 {
     class conclss
     {
-       SqlConnection con = new SqlConnection(@"server=LAPTOP-QK9QR22V\SQLEXPRESS;database=ProfileView;integrated security = true");
-
+       SqlConnection con = new SqlConnection(@"server=LAPTOP-QK9QR22V\SQLEXPRESS;database=WinAppDB;integrated security = true");
+        SqlCommand cmd;
         public int fn_ExecuteNonQuery(string sqlquery)   // Insert,Delete,Update
         {
             if (con.State == ConnectionState.Open)
@@ -62,6 +62,18 @@ namespace WindowsFormsApp1
             con.Open();
             SqlDataReader dr = cmd.ExecuteReader();
             return dr;
+        }
+
+        public DataTable fn_Adapter_DataTable(string sqlquery)
+        {
+            if (con.State == ConnectionState.Open)
+            {
+                con.Close();
+            }
+            SqlDataAdapter da = new SqlDataAdapter(sqlquery, con);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            return dt;
         }
     }
 
