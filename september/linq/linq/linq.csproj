@@ -67,12 +67,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="FromDb.aspx" />
     <Content Include="linq.aspx" />
     <Content Include="Web.config" />
     <Content Include="WithoutDb.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="emp.cs" />
+    <Compile Include="FromDb.aspx.cs">
+      <DependentUpon>FromDb.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FromDb.aspx.designer.cs">
+      <DependentUpon>FromDb.aspx</DependentUpon>
+    </Compile>
     <Compile Include="linq.aspx.cs">
       <DependentUpon>linq.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

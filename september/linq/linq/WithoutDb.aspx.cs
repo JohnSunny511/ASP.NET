@@ -27,9 +27,45 @@ namespace linq
             //select all employees from the employees
             //var match = from em in employees select em;
 
-            var match2 = from emp in employees where emp.Age > 22 && emp.Salary > 22000 select emp;
-            GridView1.DataSource = match2;
+            //var match2 = from emp in employees where emp.Age > 22 && emp.Salary > 22000 select emp;
+            //GridView1.DataSource = match2;
+            //GridView1.DataBind();
+
+            //var match21 = from emp in employees select emp.Name;
+            //GridView1.DataSource = match21;
+            //GridView1.DataBind();
+
+            //var match3 = from emp in employees select new { EMPname = emp.Name,Age = emp.Age };
+            //GridView1.DataSource = match3;
+            //GridView1.DataBind();
+
+            //var match4 = (from emp in employees select emp.Age).Distinct();
+            //GridView1.DataSource = match4;
+            //GridView1.DataBind();
+
+            //var match5 = (from emp in employees select emp.Age).Min();
+            //Response.Write(match5);
+
+            //var match5 = from emp in employees where TestEmployee(emp) && emp.Age > 22 select emp;
+            //GridView1.DataSource = match5;
+            //GridView1.DataBind();
+
+            //var match6 = from emp in employees orderby emp.Name ascending select emp;
+            //GridView1.DataSource = match6;
+            //GridView1.DataBind();
+
+            //var match7 = from emp in employees orderby emp.Name descending select emp;
+            //GridView1.DataSource = match7;
+            //GridView1.DataBind();
+
+            var match8 = from emp in employees orderby emp.Name select emp;
+            GridView1.DataSource = match8;
             GridView1.DataBind();
+        }
+
+        static bool TestEmployee(emp em)
+        {
+            return em.Name.StartsWith("s");
         }
     }
 }
