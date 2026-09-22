@@ -10,7 +10,7 @@ namespace linq
     [Table (Name = "tb1")]
     public class tb1
     {
-        [Column (IsPrimaryKey = true]
+        [Column (IsPrimaryKey = true)]
 
         public int Id { set; get; }
 
