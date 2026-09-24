@@ -12,7 +12,7 @@ namespace MVC.Models
         [Required(ErrorMessage ="Enter the name")]
         public string Name { set; get; }
 
-        [Range(20,60,ErrorMessage ="Enter valid mail id")]
+        [Range(20,60,ErrorMessage ="Enter valid Age")]
         public int Age { set; get; }
         [EmailAddress(ErrorMessage ="Enter valid mail id")]
 

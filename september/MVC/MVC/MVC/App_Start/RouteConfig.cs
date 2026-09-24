@@ -16,7 +16,7 @@ namespace MVC
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "InsertDB", action = "home", id = UrlParameter.Optional }  //run this action of this controller
+                defaults: new { controller = "InsertDBtab", action = "Insert_Pageload", id = UrlParameter.Optional }  //run this action of this controller
             );
         }
     }

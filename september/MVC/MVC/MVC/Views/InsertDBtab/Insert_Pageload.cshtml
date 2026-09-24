@@ -1,0 +1,41 @@
+﻿@model MVC.Models.InsertCls
+@{
+    ViewBag.Title = "Insert_Pageload";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Insert_Pageload</h2>
+<h2>InsertClick</h2>
+<div>
+    @using (Html.BeginForm("InsertClick", "InsertDBtab", FormMethod.Post))
+    {
+        <div>
+            <label>Name:</label>
+        </div>
+        <div>
+            @Html.TextBoxFor(m => m.Name)                     @*Name is property name*@
+            @Html.ValidationMessageFor(m => m.Name)
+        </div>
+
+        <div>
+            <label>Age:</label>
+        </div>
+        <div>
+            @Html.TextBoxFor(m => m.Age)                      @*to get the value from textbox in razor syntax*@
+            @Html.ValidationMessageFor(m => m.Age)
+        </div>
+
+        <div>
+            <label>Email:</label>
+        </div>
+        <div>
+            @Html.TextBoxFor(m => m.Email)
+            @Html.ValidationMessageFor(m => m.Email)
+        </div>
+
+        <div>
+            <input type="submit" value="Insert" />
+            @Html.DisplayFor(m => m.msg)
+        </div>
+    }
+    </div>
