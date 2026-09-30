@@ -1,0 +1,37 @@
+﻿@model MVC2Adv.Models.changepwdclss
+@{
+    ViewBag.Title = "pwd_Load";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Change Password</h1>
+<div>
+    @using (Html.BeginForm("pwd_click", "ChangePwd", FormMethod.Post))
+    {
+        <div>
+            <label>Current Password:</label>
+        </div>
+        <div>
+            @Html.TextBoxFor(m => m.oldpassword)
+            @Html.ValidationMessageFor(m => m.oldpassword)
+        </div>
+        <div>
+            <label>New Password:</label>
+        </div>
+        <div>
+            @Html.TextBoxFor(m => m.newpassword)
+            @Html.ValidationMessageFor(m => m.newpassword)
+        </div>
+        <div>
+            <label>Confirm Password:</label>
+        </div>
+        <div>
+            @Html.PasswordFor(m => m.confirmpassword)
+        </div>
+        <div>
+            <input type="submit" value="Update" />
+            @Html.DisplayFor(m => m.msg)
+        </div>
+    }
+</div>
+

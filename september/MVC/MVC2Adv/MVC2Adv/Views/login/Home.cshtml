@@ -4,5 +4,9 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Home</h2>
+<h2>Home Page</h2>
+<div>
+    @Html.ActionLink("View User Profile","Profile_Load","UserProfile")
+    @Html.ActionLink("Change Password","pwd_Load","ChangePwd")
+</div>
 

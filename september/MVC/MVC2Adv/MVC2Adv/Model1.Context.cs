@@ -125,5 +125,45 @@ namespace MVC2Adv
     
             return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_pview_Result>("sp_pview", idParameter);
         }
+    
+        public virtual int sp_changepwd(Nullable<int> uid, string newpwd)
+        {
+            var uidParameter = uid.HasValue ?
+                new ObjectParameter("uid", uid) :
+                new ObjectParameter("uid", typeof(int));
+    
+            var newpwdParameter = newpwd != null ?
+                new ObjectParameter("newpwd", newpwd) :
+                new ObjectParameter("newpwd", typeof(string));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_changepwd", uidParameter, newpwdParameter);
+        }
+    
+        public virtual int sp_getpwd(Nullable<int> uid)
+        {
+            var uidParameter = uid.HasValue ?
+                new ObjectParameter("uid", uid) :
+                new ObjectParameter("uid", typeof(int));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_getpwd", uidParameter);
+        }
+    
+        public virtual ObjectResult<string> sp_getpawd(Nullable<int> uid)
+        {
+            var uidParameter = uid.HasValue ?
+                new ObjectParameter("uid", uid) :
+                new ObjectParameter("uid", typeof(int));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<string>("sp_getpawd", uidParameter);
+        }
+    
+        public virtual ObjectResult<string> sp_getpswd(Nullable<int> uid)
+        {
+            var uidParameter = uid.HasValue ?
+                new ObjectParameter("uid", uid) :
+                new ObjectParameter("uid", typeof(int));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<string>("sp_getpswd", uidParameter);
+        }
     }
 }

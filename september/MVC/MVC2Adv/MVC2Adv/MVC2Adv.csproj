@@ -131,9 +131,11 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\ChangePwdController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\InsertDBController.cs" />
     <Compile Include="Controllers\loginController.cs" />
+    <Compile Include="Controllers\UserProfileController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -152,6 +154,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Model1.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Models\changepwdclss.cs" />
     <Compile Include="Models\InsertClss.cs" />
     <Compile Include="Models\loginclss.cs" />
     <Compile Include="Models\profileclss.cs" />
@@ -217,6 +220,8 @@
     <Content Include="Views\login\Login_Click.cshtml" />
     <Content Include="Views\login\Login_PageLoad.cshtml" />
     <Content Include="Views\login\Home.cshtml" />
+    <Content Include="Views\UserProfile\Profile_Load.cshtml" />
+    <Content Include="Views\ChangePwd\pwd_Load.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

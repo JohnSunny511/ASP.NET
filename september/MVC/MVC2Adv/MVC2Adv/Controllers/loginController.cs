@@ -26,6 +26,8 @@ namespace MVC2Adv.Controllers
                 int val = Convert.ToInt32(op.Value);
                 if (val == 1)
                 {
+                    int uid = Convert.ToInt32(dbobj.get_id(objclss.Username, objclss.pwd).First());
+                    Session["uid"] = uid;
                     return RedirectToAction("Home");
                 }
                 else

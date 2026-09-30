@@ -37,6 +37,16 @@
           <Parameter Name="una" Type="varchar" Mode="In" />
           <Parameter Name="pw" Type="varchar" Mode="In" />
         </Function>
+        <Function Name="sp_changepwd" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="uid" Type="int" Mode="In" />
+          <Parameter Name="newpwd" Type="varchar" Mode="In" />
+        </Function>
+        <Function Name="sp_getpawd" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="uid" Type="int" Mode="In" />
+        </Function>
+        <Function Name="sp_getpswd" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="uid" Type="int" Mode="In" />
+        </Function>
         <Function Name="sp_login" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
           <Parameter Name="una" Type="varchar" Mode="In" />
           <Parameter Name="pw" Type="varchar" Mode="In" />
@@ -102,7 +112,20 @@
             <Parameter Name="addr" Mode="In" Type="String" />
           </FunctionImport>
           <FunctionImport Name="sp_pview" ReturnType="Collection(mvc2Model.sp_pview_Result)">
-            <Parameter Name="id" Mode="In" Type="Int32" />
+          <Parameter Name="id" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="sp_changepwd">
+            <Parameter Name="uid" Mode="In" Type="Int32" />
+            <Parameter Name="newpwd" Mode="In" Type="String" />
+          </FunctionImport>
+          <FunctionImport Name="sp_getpwd">
+          <Parameter Name="uid" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="sp_getpawd" ReturnType="Collection(String)">
+            <Parameter Name="uid" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="sp_getpswd" ReturnType="Collection(String)">
+            <Parameter Name="uid" Mode="In" Type="Int32" />
           </FunctionImport>
         </EntityContainer>
         <ComplexType Name="sp_pview_Result">
@@ -162,6 +185,9 @@
               </ComplexTypeMapping>
             </ResultMapping>
           </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="sp_changepwd" FunctionName="mvc2Model.Store.sp_changepwd" />
+          <FunctionImportMapping FunctionImportName="sp_getpawd" FunctionName="mvc2Model.Store.sp_getpawd" />
+          <FunctionImportMapping FunctionImportName="sp_getpswd" FunctionName="mvc2Model.Store.sp_getpswd" />
         </EntityContainerMapping>
       </Mapping>
     </edmx:Mappings>
