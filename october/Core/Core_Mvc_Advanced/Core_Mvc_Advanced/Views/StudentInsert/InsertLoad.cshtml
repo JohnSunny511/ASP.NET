@@ -1,0 +1,90 @@
+﻿@model Core_Mvc_Advanced.Models.InsertClss
+
+
+<form asp-action="Insert_Click" class="form-horizondal" formaction="post" enctype="multipart/form-data">
+    <h3>Registration Form</h3>
+    <p class="text-danger">@TempData["msg"]</p>
+    <div class="form-group">
+        <strong><label class="control-label text-danger">State:</label></strong>
+        <select asp-for="stId" asp-items="@(new SelectList(ViewBag.selstates, "Value", "Text"))" id="state-ddl" class="form-control">
+            <option value="">--Select State--</option>
+        </select>
+    </div>
+    <div>
+        <strong>
+            <label class="control-label text-danger">District:</label>
+        </strong>
+        <select asp-for="dId" id="district-ddl" class="form-control">
+            <option value="">Select District</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <strong><label class="control-label text-danger">Name:</label></strong>
+        <input asp-for="sname" class="form-control" required />
+
+    </div>
+    <div>
+        <strong>
+            <label class="control-label text-danger">Age:</label>
+        </strong>
+        <input asp-for="sage" type="number" max="60" min="20" class="form-control" required/>
+    </div>
+
+    <div>
+        <strong><label class="control-label text-danger">Gender</label></strong>
+        <input type="radio" asp-for="Gender" value="Male"/>
+        <label>Male</label>
+        <input type="radio" asp-for="Gender" value="Female"/>
+        <label>Female</label>
+    </div>
+    <div class="form-group">
+        <strong> <label class="control-label text-danger">Qualification</label></strong>
+        <div>
+            @foreach (var item in Model.MyFavoriteQual)
+            {
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input"
+                           type="checkbox"
+                           name="selectedQual"
+                           value="@item.Value"
+                           checked="@item.IsChecked" />
+
+                    <label class="form-check-label">
+                        @item.Text
+                    </label>
+                </div>
+            }
+        </div>
+    </div>
+    <div class="form-group">
+        <strong> <label class="control-label text-danger">Photo</label></strong>
+        <input type="file" name="SingleFile" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Insert" class="btn btn-danger" />
+    </div>
+
+    <div>
+        @Html.ActionLink("List Inserted Details", "DisplayAll_Pageload", "DisplayAll")
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script> 
+
+    <script>
+        $('#state-ddl').change(function () {
+            var stateId = $(this).val();
+            $.ajax({
+                url: '@Url.Action("GetDistricts", "StudentInsert")',
+                data: { stateId: stateId },
+                success: function (data) {
+                    $('#district-ddl').empty();
+                    $.each(data, function (index, item) {
+                        $('#district-ddl').append('<option value="' + item.value + '">' + item.text + '</option>');
+                    });
+                }
+            });
+        });
+    </script>
+    
+</form>

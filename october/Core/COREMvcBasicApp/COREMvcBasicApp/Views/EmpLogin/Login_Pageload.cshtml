@@ -1,0 +1,23 @@
+﻿@model COREMvcBasicApp.Models.Employee
+<form asp-action="login_click" method="get" class="form-horizondal">
+    <div class="form-group">
+        <label class="control-label">Employee id</label>
+        <input type="text" asp-for="eid" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label class="control-label">Employee name</label>
+        <input type="text" asp-for="ename" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Login" class="btn btn-success" />
+    </div>
+</form>
+@if (TempData["msg"] != null)
+{
+    
+    <script>
+                    alert('@TempData["msg"]');
+                    document.getElementById("ename").value = "";
+                    document.getElementById("eid").value = "";
+    </Script>
+}
