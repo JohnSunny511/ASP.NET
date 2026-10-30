@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Core_Mvc_Advanced.Models.InsertClss>
+<h1>DisplayAll Details</h1>
+<div>
+    <form asp-action="DisplayAll_PageLoad" asp-controller="DisplayAll" method="get">
+        <table id="to1" class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>State Name</th>
+                    <th>District Name</th>
+                    <th>Age</th>
+                    <th>Gender</th>
+                    <th>Qualification</th>
+                    <th>Photo</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in ViewBag.userdetails)
+                {
+                    <tr>
+                        <td>@item.sname</td>
+                        <td>@item.stName</td>
+                        <td>@item.dName</td>
+                        <td>@item.sage</td>
+                        <td>@item.Gender</td>
+                        <td>@item.Qual</td>
+                        <td>
+                            <img src="@Url.Content(item.sphoto)" alt="Image" height="150" width="150"/>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </form>
+</div>

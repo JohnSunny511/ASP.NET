@@ -8,12 +8,12 @@
 <h2>InsertClick</h2>
 <div>
     @using (Html.BeginForm("InsertClick", "InsertDBtab", FormMethod.Post))
-    {
+     {
         <div>
             <label>Name:</label>
         </div>
         <div>
-            @Html.TextBoxFor(m => m.Name)                     @*Name is property name*@
+            @Html.TextBoxFor(m => m.Name)
             @Html.ValidationMessageFor(m => m.Name)
         </div>
 

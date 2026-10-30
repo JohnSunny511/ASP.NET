@@ -1,0 +1,40 @@
+MVC Notes
+
+7/10/2026
+1:23:30 - flow explanation
+
+9/10/26
+IEnumerable<emp> employee = null;   - used to store collection of data, that we get from db, api gives the data, its a list of class type
+
+
+22/9/2026
+@using
+dependency injection
+constructor injection
+To insert - form method -> post
+BeginForm used in html to create form
+The left side of a lambda expression specifies the input parameters(used for textboxfor in razor html in mvc
+
+adv application
+drop down and check box cant be implemented using normal way, helper functions are used
+Select List in insert page load action is an inbuilt function for drop down
+
+
+
+
+23/9/26
+MVC2ADV
+FormCollection form - to revieve collection type data from drop down and checkbox list
+id - uniquely identify an element
+name - to identify thing in server side
+first or default
+join function - join using characters like , and make it a string
+ new { enctype = "multipart/form-data" }   -  multipart(for textbox), form-data(file upload) , so this is to handle data of both types, without this the uploaded file will not be passed to controller from view
+<div>
+            <label>Photo:</label>
+        </div>
+        <div>
+            @Html.TextBox("file", "", new { Type = "file" })     @*here "file" should be same as the object name in the controller's Inser_Click action's parameter*@
+        </div>
+
+@class in view's html denotes the common property to give

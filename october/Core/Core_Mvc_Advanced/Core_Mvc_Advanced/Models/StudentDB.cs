@@ -113,7 +113,7 @@ namespace Core_Mvc_Advanced.Models
                 {
                     var o = new InsertClss
                     {
-                        sname = sdr["sId"].ToString(),
+                        sname = sdr["Sname"].ToString(),
                         stName = sdr["sname"].ToString(),
                         dName = sdr["Dname"].ToString(),
                         sage = Convert.ToInt32(sdr["Sage"].ToString()),

@@ -44,14 +44,14 @@
             <label>Photo:</label>
         </div>
         <div>
-            @Html.TextBox("file", "", new { Type = "file" })
+            @Html.TextBox("file", "", new { Type = "file" })     @*here "file" should be same as the object name in the controller's Inser_Click action's parameter*@
         </div>
         <div>
             <label>Gender:</label>
         </div>
         <div>
             Male
-            @Html.RadioButtonFor(m => m.Gender, "Male")
+            @Html.RadioButtonFor(m => m.Gender, "Male")            @*property name,value  , value is same as heading*@
             Female
             @Html.RadioButtonFor(m => m.Gender, "Female")
         </div>

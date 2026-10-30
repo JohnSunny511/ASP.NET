@@ -1,0 +1,100 @@
+16/10/26
+
+mvc core api
+api - no interface,transfer data
+
+core api - asked in interview without any assistance
+
+db - in it we have tables,sps
+
+
+fromform - form type(only used when we need photo uploading)
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+24/10/26
+core and api related questions are asked in interviews
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+26/10/26
+MVC,API,Core interview questions to test our practical knowledge
+last mock only for angular,ai, and ..  , for other marks taken form tests(mvc,core)
+In Angular as frontend and core api, the image is selected through angular project but stored in core project,path stored in DB
+first create core web api project
+create property class (userclss)
+db class - for db operations
+userManagementController - API controller with Read/Write Actions
+import models in that controller
+
+core api is easier to do in interview, webapi is difficult since linq code is used in it(when crud linq is okay)
+
+core api, with core mvc  -  study (asked in interviews)
+
+if file upload is there fromForm should be used
+FromForm gives correct Form structure
+FileStream - its a class related to files
+uploads folder created in wwwroot
+
+
+if core mvc with db sp - then create core mvc project
+otherwise fontend angular, api - core api
+front end angular, backend .net? how? - backend we can only do api, core api is much simpler
+
+
+To Do:
+In normal mvc do crud operstion using crud operation in same page
+core mvc core api - done in same page (the crud operations), do same in mvc using SP
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+27/10/26
+Token Authentication
+
+normal asp application - normal form authentication
+why token authentication not possible in first asp project - no, it only supports form authenticaton, it doesn't support token authentication,only core  (api applications) projects support token authentication
+
+jwt - json web token
+
+3 parts in jwt token
+jwt.io has explanation
+
+When we ask api it will not give data without the token
+
+//both vlaidAudience and ValidIssue are same since both are written together in TokenCoreApiApp Project
+
+secret for jwt in appsettings.json is optional
+
+
+public class LoginController : ControllerBase
+{
+
+    private readonly IConfiguration _configuration;
+
+    public LoginController(IConfiguration configuration)          //
+    {
+        _configuration = configuration;
+    }
+
+
+
+claim - built in class (claim is data used to make a jwt token
+createToken - function to create token
+
+Interview Question  8:
+which ype of jwt token is used 
+what is jwt
+what all things are claimed in
+data used to create a jwt token
+why not implement token in normal web application(first project ASP)
+what is dependency injection  -  a class calling another another class where it cannot create its own,increase speed(3 points needed for interview)
+What is API endpoint - similar to routing(set route name for a api method)
+All questions asked in mvc exam have asked in the interviews
+ActionResult vs IActionResult
+
+To Do:
+create a jwt token using chat gpt step by step: jwt token generator
+

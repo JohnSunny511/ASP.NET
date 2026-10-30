@@ -11,13 +11,13 @@ namespace MVC_API.API
     {
         MVCWebApiEntities dbobj = new MVCWebApiEntities();
         // GET: api/API
-        public IEnumerable<string> Get()
+        public IEnumerable<string> Get()           //get all data since nothing specified
         {
             return new string[] { "value1", "value2" };
         }
 
         // GET: api/API/5
-        public string Get(int id)
+        public string Get(int id)              //get specific data since id specified
         {
             return "value";
         }
@@ -29,7 +29,7 @@ namespace MVC_API.API
         {
             dbobj.emps.Add(emp);
             dbobj.SaveChanges();
-            return Ok(200);
+            return Ok(200);                   //ok   is built in function
         }
 
         [Route("Login")]

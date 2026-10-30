@@ -1,0 +1,40 @@
+﻿@model MVC_CORE_APP_2.Models.Employeecls
+<div>
+    <h4>Display Details</h4>
+    <hr/>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.eid) 
+        </dt>
+        <dd>
+            @Html.DisplayFor(Model => Model.eid)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ename)
+        </dt>
+        <dd>
+            @Html.DisplayFor(Model => Model.ename)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.eaddr)
+        </dt>
+        <dd>
+            @Html.DisplayFor(Model => Model.eaddr)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.esal)
+        </dt>
+        <dd>
+            @Html.DisplayFor(Model => Model.esal)
+        </dd>
+    </dl>
+</div>
+<p>
+    @using(Html.BeginForm("Edittab","DisplayAll",new {id = Model.eid},FormMethod.Post))
+    {
+        <button class="btn btn-success btn-xs" type="submit">
+            Edit
+        </button>
+    }
+</p>
+@Html.ActionLink("Back To List", "AllProfile_Page", "DisplayAll")
