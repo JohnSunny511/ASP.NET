@@ -1,0 +1,32 @@
+<p>examplecomp works!</p>
+
+<img src="assets/Screenshot 2026-10-23 164137.png" height="500px" width="500px">
+
+<!-- Dynamic Binding -->
+
+<h1>My Name is {{empna}}</h1>
+<br>
+<p>{{100*200}}</p>
+<br>
+<p>{{empna.length}}</p>
+<br>
+<p>{{empna.toUpperCase()}}</p>
+<br>
+<p>{{display()}}</p>
+
+
+<!-- Normla Binidng -->
+<input type="text" value="welcome">
+<br>
+
+<!-- Attribute binding (attribute given to property and called)-->
+<input type="text" [value]="msg">
+
+<h2 class="danger">{{msg1}}</h2>
+<br>
+<h2 class="success">{{msg2}}</h2>
+<br>
+
+<h2 [class] = "dclass">{{msg1}}</h2>
+<br>
+<h2 [class] = "sclass">{{msg2}}</h2>
