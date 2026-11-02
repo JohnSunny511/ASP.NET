@@ -98,3 +98,116 @@ ActionResult vs IActionResult
 To Do:
 create a jwt token using chat gpt step by step: jwt token generator
 
+
+-------------------------------------------------------------------------------------------------------------
+29/10/26
+Jwt Balance & Code First Method
+To identify api controller from mvc controller we can check the inherting part - mvc controller - : controller, api controller - :controllerBase
+
+11:00 - assignment
+
+Had errors in swagger due to spelling mistakes in appsettings.json related files
+
+In .Net core we studied - core mvc,core api - they are data first method
+
+now going to study code first method
+no edmx in core - edmx is used to connect to db
+instead of entity framework in normal mvc we have Code First method in CORE
+
+In chatgpt or net when we ask it usually gives us in code first method
+
+In core mvc only we have Code First, there is no code first in Core Api and all
+
+
+Example using two db
+
+We need to set all the constriants of db in property class itself
+Add category class in models
+add product class, and give the table structure along with property
+add addDB - dbclass
+then add a package through nugget - Microsoft entity frameworkcore 8.0.30 , Microsoft entity framework core sql server, Microsoft entity framework core tools   (all packages we install should of same version)
+Total 3 packages
+take appDB
+add 2 namespaces
+using Microsoft.EntityFrameworkCore;
+using CodeFirst1app.Models;
+appDB is used to write code to generate db according to code
+DbContext in appDB is used to create DB
+base keyword - to use functions in base class
+DbSet - is used to create table
+
+Task:
+Do a jwt example own your own using chat gpt other the one we have done now(only after authentication we can see employee details),like student details or some
+core api application,authencate using jwt token, do in data first method(not code first),jwt.io - is the site to know details about the token
+
+
+Interview Questions:
+how to set foreign key and primary key in code first method
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+30/10/2026
+
+Open tools in top bar and take nugget package manager
+write below commands in 
+Add-Migration DBCreate
+Update-Database
+Then check whether the db has been created in sqlserver
+if any problem delete "AppDBModelSnapshot.cs" in the "Migrations" folder create after executing these commands
+
+after creating it the packages will be updated to8.0.33, so update the one that is not updated to that version, then create the view and all using entity ( the controller name will be different form the view name which causes error), so change the controller name to match the view name)then remove unwanted things from view like products section in create and index, then give set the controller name in teh program.cs file
+
+asp-route-id - its a new thing in Views instead of id
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+31/10/26
+code first balance & angular starting
+
+Task:
+
+Interview Questons:
+code first - set primary key,foriegn key, in db class, how to create db and table
+in core mvc there is no edmx so we use entity
+code first vs data first diff
+which one is better code first or data first
+
+
+Angular
+angular is client side
+js - dynamic programming language,intrepreted, client side scripting language, cant make big appllications
+jquery - library of js
+AngularJs - made from js which can implement mvc 
+Angular - component based architecture - (web app based o webform in case of agular we add components instead of webforms)
+type script - improved version of js which become stable changed from its dynamic features of js
+client side framework - angular
+server side framework - .net
+Latest version of angular - 22,first version - 2,  version 1 means - angularJs
+We are studying Angular 19
+
+node -v, if error download node - windows installer msi
+npm -v  , error may occur due to not setting path, - search adbanced system settings-env variables(at bottom) - system varible - path option - edit - select c/programfiles/node js   if not working give error to google and run the fix command in powershell (Set-ExecutionPolicy RemoteSigned -Scope CurrentUser)
+npm i -g @angular/cli@19
+ng version
+ng new mytestapp   - to create angular application
+n
+css
+enable ssr/sgg  - No
+after creating , click the open folder again and select and open the created folder
+package.json - collection of modules - collection of classes
+angular.json - cli interface congugration , adding css files, save build, 3rd party tools, type script config files
+angular editor - vscode
+main.ts - server side main running page(first page running)
+index page - client side main one
+style.css is used to give styling to index page
+
+ng serve -0
+
+index is run, but we have called app compoenent(root compoenet) which is why so many things shown in the starting page
+
+.ts page to write code in type script
+.html - 
+
+
+every component has .html,.css,.ts
