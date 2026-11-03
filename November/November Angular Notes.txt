@@ -1,0 +1,87 @@
+31/10/26
+code first balance & angular starting
+
+Task:
+
+Interview Questons:
+code first - set primary key,foriegn key, in db class, how to create db and table
+in core mvc there is no edmx so we use entity
+code first vs data first diff
+which one is better code first or data first
+
+
+Angular
+angular is client side
+js - dynamic programming language,intrepreted, client side scripting language, cant make big appllications
+jquery - library of js
+AngularJs - made from js which can implement mvc 
+Angular - component based architecture - (web app based o webform in case of agular we add components instead of webforms)
+type script - improved version of js which become stable changed from its dynamic features of js
+client side framework - angular
+server side framework - .net
+Latest version of angular - 22,first version - 2,  version 1 means - angularJs
+We are studying Angular 19
+
+node -v, if error download node - windows installer msi
+npm -v  , error may occur due to not setting path, - search adbanced system settings-env variables(at bottom) - system varible - path option - edit - select c/programfiles/node js   if not working give error to google and run the fix command in powershell (Set-ExecutionPolicy RemoteSigned -Scope CurrentUser)
+npm i -g @angular/cli@19
+ng version
+ng new mytestapp   - to create angular application
+n
+css
+enable ssr/sgg  - No
+after creating , click the open folder again and select and open the created folder
+package.json - collection of modules - collection of classes
+angular.json - cli interface congugration , adding css files, save build, 3rd party tools, type script config files
+angular editor - vscode
+main.ts - server side main running page(first page running)
+index page - client side main one
+style.css is used to give styling to index page
+
+ng serve -0
+
+index is run, but we have called app compoenent(root compoenet) which is why so many things shown in the starting page
+
+.ts page to write code in type script
+.html - 
+
+
+every component has .html,.css,.ts
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2/11/26
+route component - app component
+first running page - index.html
+then app component is called using selector name
+
+things in app component.ts
+import - same as @using
+@component - what all things to display
+decorator - the ones written using @
+template url - html page
+style url - Css page
+So edit the html in appcomponent.html like replace the code there with <h1>hello</h1> then it will be displayed and add style in .css page of the same
+
+ng g c [Component Name]  - to generate new component
+this new component will have its own html,css etcc
+To add this - call that component in appcomponent.html then import that component in appcomponent.ts and in add that same in import section of that file
+
+create new folder in src - assets
+go to the path where this project exists
+
+go to angular.json and add "src/assets" like this in there after ,
+
+<h1> msg <h1>  -- things like this are static biding
+
+Dynamic Biding - One Way binding from component(ts)  to view (html)
+only exported class can be imported , these classes are created in .ts file
+Everthing written inside class is called propery
+
+
+property binding even though we are doing attribute biding ( we cant change attribute but can change value)
+
+
+Class Binding - component to view - one way binding, still we call it property binding

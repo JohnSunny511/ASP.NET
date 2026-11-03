@@ -22,6 +22,9 @@
 <!-- Attribute binding (attribute given to property and called)-->
 <input type="text" [value]="msg">
 
+
+
+<!-- Class Binding -->
 <h2 class="danger">{{msg1}}</h2>
 <br>
 <h2 class="success">{{msg2}}</h2>
@@ -30,3 +33,58 @@
 <h2 [class] = "dclass">{{msg1}}</h2>
 <br>
 <h2 [class] = "sclass">{{msg2}}</h2>
+
+
+
+
+<!-- structre Directives -->
+
+<button (click) = "check()">Click me</button>
+<br>
+<h2>{{bstatus}}</h2>
+
+<input type="text" [(ngModel)] = "msg3">
+<br>
+<input text="text" [(ngModel)] = "msg3">
+
+<!-- <p *ngIf="checked">Hai Good Morning</p>
+<p *ngIf="!checked">Good Afternoon</p>
+<br>  -->
+<button (click)="Ischange()">Click to Change Status</button>
+
+<div *ngIf="checked else t1">
+    Hai ... Good Morning
+</div>
+<ng-template #t1>
+    <p>Good Afternoon</p>
+</ng-template>
+
+<br>
+<ng-template [ngIf]="checked" [ngIfElse]="t2">
+    Good evening
+</ng-template>
+<ng-template #t2>
+    <p>Good Night</p>
+</ng-template>
+
+
+<!-- ngfor -->
+
+<ul>
+    <li *ngFor="let s of slist">
+        {{s.sid}},{{s.sname}},{{s.sage}}
+    </li>
+</ul>
+
+
+<!-- ngswitch -->
+
+<container-element [ngSwitch] = "today">
+    <span *ngSwitchCase="0"><h1>Sunday</h1></span>
+    <span *ngSwitchCase="1"><h1>Monday</h1></span>
+    <span *ngSwitchCase="2"><h1>Tuesday</h1></span>
+    <span *ngSwitchCase="3"><h1>Wednesday</h1></span>
+    <span *ngSwitchCase="4"><h1>Thursday</h1></span>
+    <span *ngSwitchCase="5"><h1>Friday</h1></span>
+    <span *ngSwitchCase="6"><h1>Saturday</h1></span>
+</container-element>
