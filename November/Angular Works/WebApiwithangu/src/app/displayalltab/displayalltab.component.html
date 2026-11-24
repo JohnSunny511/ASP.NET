@@ -1,0 +1,33 @@
+<button routerLink="/insert"> Insert Employee Details</button>
+
+<h2>All Employee Details</h2>
+
+<div class="container">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Salary</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let p of getEmpData">
+                <td>{{p.empName}}</td>
+                <td>{{p.empAge}}</td>
+                <td>{{p.empSalary}}</td>
+                <td>{{p.empAddr}}</td>
+                <td>
+                    <a (click)="deleteDetails(p.empId)">Delete</a>
+                </td>
+                <td>
+                    <a [routerLink]="['/selectDetails',p.empId]">Select details</a>
+                </td>
+                <td>
+                    <a [routerLink]="['/editdetails',p.empId]">editdetails</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>

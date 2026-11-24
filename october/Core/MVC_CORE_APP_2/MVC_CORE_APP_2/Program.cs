@@ -18,6 +18,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=DBInsert}/{action=Insert_Load}/{id?}");
+    pattern: "{controller=DisplayAll}/{action=AllProfile_Page}/{id?}");
 
 app.Run();

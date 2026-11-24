@@ -1,0 +1,6 @@
+@MailSendingCoreApi_HostAddress = http://localhost:5190
+
+GET {{MailSendingCoreApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

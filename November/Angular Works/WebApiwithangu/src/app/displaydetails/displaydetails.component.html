@@ -1,0 +1,14 @@
+<h2>
+    Employee Details
+</h2>
+<div *ngIf="employee" class="container">
+    <h3>{{employee.empName | uppercase}} Details</h3>
+    <div><span>Age: </span>{{employee.empAge}}</div>
+    <div><span>mark: </span>{{employee.empAddr}}</div>
+    <div><span>mark: </span>{{employee.empSalary}}</div>
+    <div>
+        <button routerLink="/editdetails/{{employee.empId}}">
+            Edit
+        </button>
+    </div>
+</div>

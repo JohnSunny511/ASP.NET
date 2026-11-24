@@ -1,0 +1,39 @@
+<div class="container">
+
+  <h2>Gemini AI Chatbot</h2>
+
+  <div class="chat-box">
+
+    <div *ngFor="let chat of chats"
+         class="message"
+         [ngClass]="chat.role">
+
+      <strong>{{ chat.role === 'user' ? 'You' : 'Gemini' }}</strong>
+
+      <div class="message-content">{{ chat.text }}</div>
+
+    </div>
+
+    <div *ngIf="loading" class="message gemini">
+      Gemini is thinking...
+    </div>
+
+  </div>
+
+  <div class="input-area">
+
+    <input
+      type="text"
+      [(ngModel)]="message"
+      placeholder="Ask Gemini anything..."
+      (keyup.enter)="sendMessage()">
+
+    <button
+      (click)="sendMessage()"
+      [disabled]="loading || !message.trim()">
+      Send
+    </button>
+
+  </div>
+
+</div>

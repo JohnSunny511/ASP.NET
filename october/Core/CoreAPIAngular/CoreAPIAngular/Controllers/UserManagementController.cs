@@ -6,8 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 namespace CoreAPIAngular.Controllers
 {
     //[Route("api/[controller]")]
-    [Route("api/UserManagement")]
-    [ApiController]
+    [Route("UserManagement")]
+    [ApiController] 
     public class UserManagementController : ControllerBase
     {
 
@@ -101,7 +101,9 @@ namespace CoreAPIAngular.Controllers
             string cid = dbobj.LoginDB(uservls);
             if (cid == "1")
             {
-                return await Task.Run(() => Ok(new { message = "success!" }));
+                string uid = dbobj.GetUserID(uservls);
+                return await Task.Run(() => Ok(new { userId = uid }));
+                //return await Task.Run(() => Ok(new { message = "success!" }));
             }
             else
             {

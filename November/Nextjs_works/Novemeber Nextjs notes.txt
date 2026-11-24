@@ -1,0 +1,118 @@
+12-11-2026
+
+next Js
+.net  - CSR
+client side rendering - request sent by client to server  , then client makes the html page to display
+file based routing IN NEXT.JS
+In angular - component based routing
+no configuration file for routing
+angular is not full stack support(it can only do things in client side) we use core api for backend
+next is full stack(it can do client and server side)frontend and backend,we can create both frontend and backend using next.js
+more seo support
+next.js is for production website
+production website - the website fully set and ready for hosting after client accepts it
+
+
+install node
+Crearte next app
+npx create-next-app@latest my-next-app
+npm run dev -  To run 
+localhost:3000
+
+ts config file  - in ts(types script)
+public folder - for stroing imgaes(3rd party assests) we use assets in .net(this is one of the things that we do somethings)
+.node modults - imported built in packages
+ESLint used to find syntax error,bugs,coding rules enforcment
+page.tsx - same as index.html in angular(first page to run)
+layout - common design(navbar,footer ... etc.)
+golobal.css - common css for application
+In angular and .net diff page for code and design
+while react and next  code and design in same page, design is inside return( )
+when we desing we should atleast give a div otherwise it would give an error(so it needs a container to add multiple components)
+
+
+In layout page
+metatag used to adjust according to screen
+children is same as content placeholder in asp.net, the custom design to give in each page which are using common layout
+
+
+create folder gallery in app
+then create file page.tsx - this name will only work
+for image we have img tag ang Image tag in Next.js(put the image in public folder)
+In tailwind we use className instead of class
+
+There are server compoents
+we can use server component like client component
+There is actually no client component, but we use it like this
+Normally client component doesn't have db access, but we use client component for this purpose
+user can imput data and store it into DB, only client component can do it
+
+React Hooks:
+userState -> to store and update data(state) (like property we used in .net mvc)
+useEffect ->   similar to pageLoad action
+
+Tasks:
+create a small project with angular frontend, core api as backend
+
+Interviwe questions:
+diff between angular and react
+framework of react is next.js
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+16-11-2026
+
+when we create a page first it will be server side, so we give "use Client"; in order to make it client side
+
+useState
+used to update the existing value - when typed in textbox it is reflected in the variable and can be seen in the webpage
+
+class binding
+
+map function - iterate all values and get all values
+
+map is usually used in nex.js instead of simple for loop
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+17-11-26
+
+value - is an attribute
+
+useEffect - 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+in angular there is inbuilt thing for creting service
+but in angular there is nothing own its own
+
+Create next application to connect with core api
+
+open the main folder through the vc code
+then create new project using   -    npx create-next-app@latest nextcoreapi
+create lib folder in app folder
+create api.ts file in lib folder
+open that and write interface for db property (for registering,login,profile load, message recival)
+
+promise used in nextjs instead of observable in angular
+observable - observe the response from api and ues it in application
+promise only single value , asynvhrous, it will use the data
+observable  multipile value and can decide whether to use it or not
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+API integration with angular and nexts
+
+1NF - we set primary key
+
+2NF - should depend on entire primary key,
+
+Interview:
+sql is sometimes more important than #, they will ask to write query to retrive data
+linq - writing same query using LINQ
